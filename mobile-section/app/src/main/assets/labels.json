@@ -1,0 +1,6002 @@
+[
+  {
+    'imageNetIndex': '0',
+    'kerasIndex': '278',
+    'id': 'n02119789',
+    'text': 'kit fox, Vulpes macrotis'
+  },
+  {
+    'imageNetIndex': '1',
+    'kerasIndex': '212',
+    'id': 'n02100735',
+    'text': 'English setter'
+  },
+  {
+    'imageNetIndex': '2',
+    'kerasIndex': '250',
+    'id': 'n02110185',
+    'text': 'Siberian husky'
+  },
+  {
+    'imageNetIndex': '3',
+    'kerasIndex': '193',
+    'id': 'n02096294',
+    'text': 'Australian terrier'
+  },
+  {
+    'imageNetIndex': '4',
+    'kerasIndex': '217',
+    'id': 'n02102040',
+    'text': 'English springer, English springer spaniel'
+  },
+  {
+    'imageNetIndex': '5',
+    'kerasIndex': '147',
+    'id': 'n02066245',
+    'text': 'grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus'
+  },
+  {
+    'imageNetIndex': '6',
+    'kerasIndex': '387',
+    'id': 'n02509815',
+    'text': 'lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens'
+  },
+  {
+    'imageNetIndex': '7',
+    'kerasIndex': '285',
+    'id': 'n02124075',
+    'text': 'Egyptian cat'
+  },
+  {
+    'imageNetIndex': '8',
+    'kerasIndex': '350',
+    'id': 'n02417914',
+    'text': 'ibex, Capra ibex'
+  },
+  {
+    'imageNetIndex': '9',
+    'kerasIndex': '283',
+    'id': 'n02123394',
+    'text': 'Persian cat'
+  },
+  {
+    'imageNetIndex': '10',
+    'kerasIndex': '286',
+    'id': 'n02125311',
+    'text': 'cougar, puma, catamount, mountain lion, painter, panther, Felis concolor'
+  },
+  {
+    'imageNetIndex': '11',
+    'kerasIndex': '353',
+    'id': 'n02423022',
+    'text': 'gazelle'
+  },
+  {
+    'imageNetIndex': '12',
+    'kerasIndex': '334',
+    'id': 'n02346627',
+    'text': 'porcupine, hedgehog'
+  },
+  {
+    'imageNetIndex': '13',
+    'kerasIndex': '150',
+    'id': 'n02077923',
+    'text': 'sea lion'
+  },
+  {
+    'imageNetIndex': '14',
+    'kerasIndex': '249',
+    'id': 'n02110063',
+    'text': 'malamute, malemute, Alaskan malamute'
+  },
+  {
+    'imageNetIndex': '15',
+    'kerasIndex': '362',
+    'id': 'n02447366',
+    'text': 'badger'
+  },
+  {
+    'imageNetIndex': '16',
+    'kerasIndex': '246',
+    'id': 'n02109047',
+    'text': 'Great Dane'
+  },
+  {
+    'imageNetIndex': '17',
+    'kerasIndex': '166',
+    'id': 'n02089867',
+    'text': 'Walker hound, Walker foxhound'
+  },
+  {
+    'imageNetIndex': '18',
+    'kerasIndex': '218',
+    'id': 'n02102177',
+    'text': 'Welsh springer spaniel'
+  },
+  {
+    'imageNetIndex': '19',
+    'kerasIndex': '172',
+    'id': 'n02091134',
+    'text': 'whippet'
+  },
+  {
+    'imageNetIndex': '20',
+    'kerasIndex': '177',
+    'id': 'n02092002',
+    'text': 'Scottish deerhound, deerhound'
+  },
+  {
+    'imageNetIndex': '21',
+    'kerasIndex': '148',
+    'id': 'n02071294',
+    'text': 'killer whale, killer, orca, grampus, sea wolf, Orcinus orca'
+  },
+  {
+    'imageNetIndex': '22',
+    'kerasIndex': '357',
+    'id': 'n02442845',
+    'text': 'mink'
+  },
+  {
+    'imageNetIndex': '23',
+    'kerasIndex': '386',
+    'id': 'n02504458',
+    'text': 'African elephant, Loxodonta africana'
+  },
+  {
+    'imageNetIndex': '24',
+    'kerasIndex': '178',
+    'id': 'n02092339',
+    'text': 'Weimaraner'
+  },
+  {
+    'imageNetIndex': '25',
+    'kerasIndex': '202',
+    'id': 'n02098105',
+    'text': 'soft-coated wheaten terrier'
+  },
+  {
+    'imageNetIndex': '26',
+    'kerasIndex': '194',
+    'id': 'n02096437',
+    'text': 'Dandie Dinmont, Dandie Dinmont terrier'
+  },
+  {
+    'imageNetIndex': '27',
+    'kerasIndex': '271',
+    'id': 'n02114712',
+    'text': 'red wolf, maned wolf, Canis rufus, Canis niger'
+  },
+  {
+    'imageNetIndex': '28',
+    'kerasIndex': '229',
+    'id': 'n02105641',
+    'text': 'Old English sheepdog, bobtail'
+  },
+  {
+    'imageNetIndex': '29',
+    'kerasIndex': '290',
+    'id': 'n02128925',
+    'text': 'jaguar, panther, Panthera onca, Felis onca'
+  },
+  {
+    'imageNetIndex': '30',
+    'kerasIndex': '175',
+    'id': 'n02091635',
+    'text': 'otterhound, otter hound'
+  },
+  {
+    'imageNetIndex': '31',
+    'kerasIndex': '163',
+    'id': 'n02088466',
+    'text': 'bloodhound, sleuthhound'
+  },
+  {
+    'imageNetIndex': '32',
+    'kerasIndex': '191',
+    'id': 'n02096051',
+    'text': 'Airedale, Airedale terrier'
+  },
+  {
+    'imageNetIndex': '33',
+    'kerasIndex': '276',
+    'id': 'n02117135',
+    'text': 'hyena, hyaena'
+  },
+  {
+    'imageNetIndex': '34',
+    'kerasIndex': '299',
+    'id': 'n02138441',
+    'text': 'meerkat, mierkat'
+  },
+  {
+    'imageNetIndex': '35',
+    'kerasIndex': '197',
+    'id': 'n02097130',
+    'text': 'giant schnauzer'
+  },
+  {
+    'imageNetIndex': '36',
+    'kerasIndex': '380',
+    'id': 'n02493509',
+    'text': 'titi, titi monkey'
+  },
+  {
+    'imageNetIndex': '37',
+    'kerasIndex': '364',
+    'id': 'n02457408',
+    'text': 'three-toed sloth, ai, Bradypus tridactylus'
+  },
+  {
+    'imageNetIndex': '38',
+    'kerasIndex': '339',
+    'id': 'n02389026',
+    'text': 'sorrel'
+  },
+  {
+    'imageNetIndex': '39',
+    'kerasIndex': '359',
+    'id': 'n02443484',
+    'text': 'black-footed ferret, ferret, Mustela nigripes'
+  },
+  {
+    'imageNetIndex': '40',
+    'kerasIndex': '251',
+    'id': 'n02110341',
+    'text': 'dalmatian, coach dog, carriage dog'
+  },
+  {
+    'imageNetIndex': '41',
+    'kerasIndex': '165',
+    'id': 'n02089078',
+    'text': 'black-and-tan coonhound'
+  },
+  {
+    'imageNetIndex': '42',
+    'kerasIndex': '157',
+    'id': 'n02086910',
+    'text': 'papillon'
+  },
+  {
+    'imageNetIndex': '43',
+    'kerasIndex': '361',
+    'id': 'n02445715',
+    'text': 'skunk, polecat, wood pussy'
+  },
+  {
+    'imageNetIndex': '44',
+    'kerasIndex': '179',
+    'id': 'n02093256',
+    'text': 'Staffordshire bullterrier, Staffordshire bull terrier'
+  },
+  {
+    'imageNetIndex': '45',
+    'kerasIndex': '268',
+    'id': 'n02113978',
+    'text': 'Mexican hairless'
+  },
+  {
+    'imageNetIndex': '46',
+    'kerasIndex': '233',
+    'id': 'n02106382',
+    'text': 'Bouvier des Flandres, Bouviers des Flandres'
+  },
+  {
+    'imageNetIndex': '47',
+    'kerasIndex': '356',
+    'id': 'n02441942',
+    'text': 'weasel'
+  },
+  {
+    'imageNetIndex': '48',
+    'kerasIndex': '266',
+    'id': 'n02113712',
+    'text': 'miniature poodle'
+  },
+  {
+    'imageNetIndex': '49',
+    'kerasIndex': '264',
+    'id': 'n02113186',
+    'text': 'Cardigan, Cardigan Welsh corgi'
+  },
+  {
+    'imageNetIndex': '50',
+    'kerasIndex': '225',
+    'id': 'n02105162',
+    'text': 'malinois'
+  },
+  {
+    'imageNetIndex': '51',
+    'kerasIndex': '349',
+    'id': 'n02415577',
+    'text': 'bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis'
+  },
+  {
+    'imageNetIndex': '52',
+    'kerasIndex': '335',
+    'id': 'n02356798',
+    'text': 'fox squirrel, eastern fox squirrel, Sciurus niger'
+  },
+  {
+    'imageNetIndex': '53',
+    'kerasIndex': '375',
+    'id': 'n02488702',
+    'text': 'colobus, colobus monkey'
+  },
+  {
+    'imageNetIndex': '54',
+    'kerasIndex': '282',
+    'id': 'n02123159',
+    'text': 'tiger cat'
+  },
+  {
+    'imageNetIndex': '55',
+    'kerasIndex': '204',
+    'id': 'n02098413',
+    'text': 'Lhasa, Lhasa apso'
+  },
+  {
+    'imageNetIndex': '56',
+    'kerasIndex': '352',
+    'id': 'n02422699',
+    'text': 'impala, Aepyceros melampus'
+  },
+  {
+    'imageNetIndex': '57',
+    'kerasIndex': '272',
+    'id': 'n02114855',
+    'text': 'coyote, prairie wolf, brush wolf, Canis latrans'
+  },
+  {
+    'imageNetIndex': '58',
+    'kerasIndex': '187',
+    'id': 'n02094433',
+    'text': 'Yorkshire terrier'
+  },
+  {
+    'imageNetIndex': '59',
+    'kerasIndex': '256',
+    'id': 'n02111277',
+    'text': 'Newfoundland, Newfoundland dog'
+  },
+  {
+    'imageNetIndex': '60',
+    'kerasIndex': '294',
+    'id': 'n02132136',
+    'text': 'brown bear, bruin, Ursus arctos'
+  },
+  {
+    'imageNetIndex': '61',
+    'kerasIndex': '277',
+    'id': 'n02119022',
+    'text': 'red fox, Vulpes vulpes'
+  },
+  {
+    'imageNetIndex': '62',
+    'kerasIndex': '174',
+    'id': 'n02091467',
+    'text': 'Norwegian elkhound, elkhound'
+  },
+  {
+    'imageNetIndex': '63',
+    'kerasIndex': '234',
+    'id': 'n02106550',
+    'text': 'Rottweiler'
+  },
+  {
+    'imageNetIndex': '64',
+    'kerasIndex': '351',
+    'id': 'n02422106',
+    'text': 'hartebeest'
+  },
+  {
+    'imageNetIndex': '65',
+    'kerasIndex': '176',
+    'id': 'n02091831',
+    'text': 'Saluki, gazelle hound'
+  },
+  {
+    'imageNetIndex': '66',
+    'kerasIndex': '280',
+    'id': 'n02120505',
+    'text': 'grey fox, gray fox, Urocyon cinereoargenteus'
+  },
+  {
+    'imageNetIndex': '67',
+    'kerasIndex': '223',
+    'id': 'n02104365',
+    'text': 'schipperke'
+  },
+  {
+    'imageNetIndex': '68',
+    'kerasIndex': '154',
+    'id': 'n02086079',
+    'text': 'Pekinese, Pekingese, Peke'
+  },
+  {
+    'imageNetIndex': '69',
+    'kerasIndex': '262',
+    'id': 'n02112706',
+    'text': 'Brabancon griffon'
+  },
+  {
+    'imageNetIndex': '70',
+    'kerasIndex': '203',
+    'id': 'n02098286',
+    'text': 'West Highland white terrier'
+  },
+  {
+    'imageNetIndex': '71',
+    'kerasIndex': '190',
+    'id': 'n02095889',
+    'text': 'Sealyham terrier, Sealyham'
+  },
+  {
+    'imageNetIndex': '72',
+    'kerasIndex': '370',
+    'id': 'n02484975',
+    'text': 'guenon, guenon monkey'
+  },
+  {
+    'imageNetIndex': '73',
+    'kerasIndex': '298',
+    'id': 'n02137549',
+    'text': 'mongoose'
+  },
+  {
+    'imageNetIndex': '74',
+    'kerasIndex': '384',
+    'id': 'n02500267',
+    'text': 'indri, indris, Indri indri, Indri brevicaudatus'
+  },
+  {
+    'imageNetIndex': '75',
+    'kerasIndex': '292',
+    'id': 'n02129604',
+    'text': 'tiger, Panthera tigris'
+  },
+  {
+    'imageNetIndex': '76',
+    'kerasIndex': '170',
+    'id': 'n02090721',
+    'text': 'Irish wolfhound'
+  },
+  {
+    'imageNetIndex': '77',
+    'kerasIndex': '342',
+    'id': 'n02396427',
+    'text': 'wild boar, boar, Sus scrofa'
+  },
+  {
+    'imageNetIndex': '78',
+    'kerasIndex': '241',
+    'id': 'n02108000',
+    'text': 'EntleBucher'
+  },
+  {
+    'imageNetIndex': '79',
+    'kerasIndex': '340',
+    'id': 'n02391049',
+    'text': 'zebra'
+  },
+  {
+    'imageNetIndex': '80',
+    'kerasIndex': '348',
+    'id': 'n02412080',
+    'text': 'ram, tup'
+  },
+  {
+    'imageNetIndex': '81',
+    'kerasIndex': '245',
+    'id': 'n02108915',
+    'text': 'French bulldog'
+  },
+  {
+    'imageNetIndex': '82',
+    'kerasIndex': '365',
+    'id': 'n02480495',
+    'text': 'orangutan, orang, orangutang, Pongo pygmaeus'
+  },
+  {
+    'imageNetIndex': '83',
+    'kerasIndex': '253',
+    'id': 'n02110806',
+    'text': 'basenji'
+  },
+  {
+    'imageNetIndex': '84',
+    'kerasIndex': '288',
+    'id': 'n02128385',
+    'text': 'leopard, Panthera pardus'
+  },
+  {
+    'imageNetIndex': '85',
+    'kerasIndex': '239',
+    'id': 'n02107683',
+    'text': 'Bernese mountain dog'
+  },
+  {
+    'imageNetIndex': '86',
+    'kerasIndex': '153',
+    'id': 'n02085936',
+    'text': 'Maltese dog, Maltese terrier, Maltese'
+  },
+  {
+    'imageNetIndex': '87',
+    'kerasIndex': '185',
+    'id': 'n02094114',
+    'text': 'Norfolk terrier'
+  },
+  {
+    'imageNetIndex': '88',
+    'kerasIndex': '158',
+    'id': 'n02087046',
+    'text': 'toy terrier'
+  },
+  {
+    'imageNetIndex': '89',
+    'kerasIndex': '211',
+    'id': 'n02100583',
+    'text': 'vizsla, Hungarian pointer'
+  },
+  {
+    'imageNetIndex': '90',
+    'kerasIndex': '192',
+    'id': 'n02096177',
+    'text': 'cairn, cairn terrier'
+  },
+  {
+    'imageNetIndex': '91',
+    'kerasIndex': '382',
+    'id': 'n02494079',
+    'text': 'squirrel monkey, Saimiri sciureus'
+  },
+  {
+    'imageNetIndex': '92',
+    'kerasIndex': '224',
+    'id': 'n02105056',
+    'text': 'groenendael'
+  },
+  {
+    'imageNetIndex': '93',
+    'kerasIndex': '216',
+    'id': 'n02101556',
+    'text': 'clumber, clumber spaniel'
+  },
+  {
+    'imageNetIndex': '94',
+    'kerasIndex': '284',
+    'id': 'n02123597',
+    'text': 'Siamese cat, Siamese'
+  },
+  {
+    'imageNetIndex': '95',
+    'kerasIndex': '367',
+    'id': 'n02481823',
+    'text': 'chimpanzee, chimp, Pan troglodytes'
+  },
+  {
+    'imageNetIndex': '96',
+    'kerasIndex': '228',
+    'id': 'n02105505',
+    'text': 'komondor'
+  },
+  {
+    'imageNetIndex': '97',
+    'kerasIndex': '160',
+    'id': 'n02088094',
+    'text': 'Afghan hound, Afghan'
+  },
+  {
+    'imageNetIndex': '98',
+    'kerasIndex': '152',
+    'id': 'n02085782',
+    'text': 'Japanese spaniel'
+  },
+  {
+    'imageNetIndex': '99',
+    'kerasIndex': '376',
+    'id': 'n02489166',
+    'text': 'proboscis monkey, Nasalis larvatus'
+  },
+  {
+    'imageNetIndex': '100',
+    'kerasIndex': '338',
+    'id': 'n02364673',
+    'text': 'guinea pig, Cavia cobaya'
+  },
+  {
+    'imageNetIndex': '101',
+    'kerasIndex': '270',
+    'id': 'n02114548',
+    'text': 'white wolf, Arctic wolf, Canis lupus tundrarum'
+  },
+  {
+    'imageNetIndex': '102',
+    'kerasIndex': '296',
+    'id': 'n02134084',
+    'text': 'ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus'
+  },
+  {
+    'imageNetIndex': '103',
+    'kerasIndex': '366',
+    'id': 'n02480855',
+    'text': 'gorilla, Gorilla gorilla'
+  },
+  {
+    'imageNetIndex': '104',
+    'kerasIndex': '169',
+    'id': 'n02090622',
+    'text': 'borzoi, Russian wolfhound'
+  },
+  {
+    'imageNetIndex': '105',
+    'kerasIndex': '265',
+    'id': 'n02113624',
+    'text': 'toy poodle'
+  },
+  {
+    'imageNetIndex': '106',
+    'kerasIndex': '183',
+    'id': 'n02093859',
+    'text': 'Kerry blue terrier'
+  },
+  {
+    'imageNetIndex': '107',
+    'kerasIndex': '345',
+    'id': 'n02403003',
+    'text': 'ox'
+  },
+  {
+    'imageNetIndex': '108',
+    'kerasIndex': '199',
+    'id': 'n02097298',
+    'text': 'Scotch terrier, Scottish terrier, Scottie'
+  },
+  {
+    'imageNetIndex': '109',
+    'kerasIndex': '244',
+    'id': 'n02108551',
+    'text': 'Tibetan mastiff'
+  },
+  {
+    'imageNetIndex': '110',
+    'kerasIndex': '381',
+    'id': 'n02493793',
+    'text': 'spider monkey, Ateles geoffroyi'
+  },
+  {
+    'imageNetIndex': '111',
+    'kerasIndex': '236',
+    'id': 'n02107142',
+    'text': 'Doberman, Doberman pinscher'
+  },
+  {
+    'imageNetIndex': '112',
+    'kerasIndex': '195',
+    'id': 'n02096585',
+    'text': 'Boston bull, Boston terrier'
+  },
+  {
+    'imageNetIndex': '113',
+    'kerasIndex': '238',
+    'id': 'n02107574',
+    'text': 'Greater Swiss Mountain dog'
+  },
+  {
+    'imageNetIndex': '114',
+    'kerasIndex': '240',
+    'id': 'n02107908',
+    'text': 'Appenzeller'
+  },
+  {
+    'imageNetIndex': '115',
+    'kerasIndex': '155',
+    'id': 'n02086240',
+    'text': 'Shih-Tzu'
+  },
+  {
+    'imageNetIndex': '116',
+    'kerasIndex': '221',
+    'id': 'n02102973',
+    'text': 'Irish water spaniel'
+  },
+  {
+    'imageNetIndex': '117',
+    'kerasIndex': '259',
+    'id': 'n02112018',
+    'text': 'Pomeranian'
+  },
+  {
+    'imageNetIndex': '118',
+    'kerasIndex': '181',
+    'id': 'n02093647',
+    'text': 'Bedlington terrier'
+  },
+  {
+    'imageNetIndex': '119',
+    'kerasIndex': '343',
+    'id': 'n02397096',
+    'text': 'warthog'
+  },
+  {
+    'imageNetIndex': '120',
+    'kerasIndex': '354',
+    'id': 'n02437312',
+    'text': 'Arabian camel, dromedary, Camelus dromedarius'
+  },
+  {
+    'imageNetIndex': '121',
+    'kerasIndex': '369',
+    'id': 'n02483708',
+    'text': 'siamang, Hylobates syndactylus, Symphalangus syndactylus'
+  },
+  {
+    'imageNetIndex': '122',
+    'kerasIndex': '196',
+    'id': 'n02097047',
+    'text': 'miniature schnauzer'
+  },
+  {
+    'imageNetIndex': '123',
+    'kerasIndex': '231',
+    'id': 'n02106030',
+    'text': 'collie'
+  },
+  {
+    'imageNetIndex': '124',
+    'kerasIndex': '207',
+    'id': 'n02099601',
+    'text': 'golden retriever'
+  },
+  {
+    'imageNetIndex': '125',
+    'kerasIndex': '184',
+    'id': 'n02093991',
+    'text': 'Irish terrier'
+  },
+  {
+    'imageNetIndex': '126',
+    'kerasIndex': '252',
+    'id': 'n02110627',
+    'text': 'affenpinscher, monkey pinscher, monkey dog'
+  },
+  {
+    'imageNetIndex': '127',
+    'kerasIndex': '232',
+    'id': 'n02106166',
+    'text': 'Border collie'
+  },
+  {
+    'imageNetIndex': '128',
+    'kerasIndex': '331',
+    'id': 'n02326432',
+    'text': 'hare'
+  },
+  {
+    'imageNetIndex': '129',
+    'kerasIndex': '242',
+    'id': 'n02108089',
+    'text': 'boxer'
+  },
+  {
+    'imageNetIndex': '130',
+    'kerasIndex': '201',
+    'id': 'n02097658',
+    'text': 'silky terrier, Sydney silky'
+  },
+  {
+    'imageNetIndex': '131',
+    'kerasIndex': '162',
+    'id': 'n02088364',
+    'text': 'beagle'
+  },
+  {
+    'imageNetIndex': '132',
+    'kerasIndex': '255',
+    'id': 'n02111129',
+    'text': 'Leonberg'
+  },
+  {
+    'imageNetIndex': '133',
+    'kerasIndex': '210',
+    'id': 'n02100236',
+    'text': 'German short-haired pointer'
+  },
+  {
+    'imageNetIndex': '134',
+    'kerasIndex': '371',
+    'id': 'n02486261',
+    'text': 'patas, hussar monkey, Erythrocebus patas'
+  },
+  {
+    'imageNetIndex': '135',
+    'kerasIndex': '274',
+    'id': 'n02115913',
+    'text': 'dhole, Cuon alpinus'
+  },
+  {
+    'imageNetIndex': '136',
+    'kerasIndex': '372',
+    'id': 'n02486410',
+    'text': 'baboon'
+  },
+  {
+    'imageNetIndex': '137',
+    'kerasIndex': '373',
+    'id': 'n02487347',
+    'text': 'macaque'
+  },
+  {
+    'imageNetIndex': '138',
+    'kerasIndex': '209',
+    'id': 'n02099849',
+    'text': 'Chesapeake Bay retriever'
+  },
+  {
+    'imageNetIndex': '139',
+    'kerasIndex': '243',
+    'id': 'n02108422',
+    'text': 'bull mastiff'
+  },
+  {
+    'imageNetIndex': '140',
+    'kerasIndex': '222',
+    'id': 'n02104029',
+    'text': 'kuvasz'
+  },
+  {
+    'imageNetIndex': '141',
+    'kerasIndex': '378',
+    'id': 'n02492035',
+    'text': 'capuchin, ringtail, Cebus capucinus'
+  },
+  {
+    'imageNetIndex': '142',
+    'kerasIndex': '254',
+    'id': 'n02110958',
+    'text': 'pug, pug-dog'
+  },
+  {
+    'imageNetIndex': '143',
+    'kerasIndex': '206',
+    'id': 'n02099429',
+    'text': 'curly-coated retriever'
+  },
+  {
+    'imageNetIndex': '144',
+    'kerasIndex': '186',
+    'id': 'n02094258',
+    'text': 'Norwich terrier'
+  },
+  {
+    'imageNetIndex': '145',
+    'kerasIndex': '205',
+    'id': 'n02099267',
+    'text': 'flat-coated retriever'
+  },
+  {
+    'imageNetIndex': '146',
+    'kerasIndex': '341',
+    'id': 'n02395406',
+    'text': 'hog, pig, grunter, squealer, Sus scrofa'
+  },
+  {
+    'imageNetIndex': '147',
+    'kerasIndex': '261',
+    'id': 'n02112350',
+    'text': 'keeshond'
+  },
+  {
+    'imageNetIndex': '148',
+    'kerasIndex': '248',
+    'id': 'n02109961',
+    'text': 'Eskimo dog, husky'
+  },
+  {
+    'imageNetIndex': '149',
+    'kerasIndex': '215',
+    'id': 'n02101388',
+    'text': 'Brittany spaniel'
+  },
+  {
+    'imageNetIndex': '150',
+    'kerasIndex': '267',
+    'id': 'n02113799',
+    'text': 'standard poodle'
+  },
+  {
+    'imageNetIndex': '151',
+    'kerasIndex': '189',
+    'id': 'n02095570',
+    'text': 'Lakeland terrier'
+  },
+  {
+    'imageNetIndex': '152',
+    'kerasIndex': '289',
+    'id': 'n02128757',
+    'text': 'snow leopard, ounce, Panthera uncia'
+  },
+  {
+    'imageNetIndex': '153',
+    'kerasIndex': '214',
+    'id': 'n02101006',
+    'text': 'Gordon setter'
+  },
+  {
+    'imageNetIndex': '154',
+    'kerasIndex': '273',
+    'id': 'n02115641',
+    'text': 'dingo, warrigal, warragal, Canis dingo'
+  },
+  {
+    'imageNetIndex': '155',
+    'kerasIndex': '198',
+    'id': 'n02097209',
+    'text': 'standard schnauzer'
+  },
+  {
+    'imageNetIndex': '156',
+    'kerasIndex': '333',
+    'id': 'n02342885',
+    'text': 'hamster'
+  },
+  {
+    'imageNetIndex': '157',
+    'kerasIndex': '200',
+    'id': 'n02097474',
+    'text': 'Tibetan terrier, chrysanthemum dog'
+  },
+  {
+    'imageNetIndex': '158',
+    'kerasIndex': '279',
+    'id': 'n02120079',
+    'text': 'Arctic fox, white fox, Alopex lagopus'
+  },
+  {
+    'imageNetIndex': '159',
+    'kerasIndex': '188',
+    'id': 'n02095314',
+    'text': 'wire-haired fox terrier'
+  },
+  {
+    'imageNetIndex': '160',
+    'kerasIndex': '161',
+    'id': 'n02088238',
+    'text': 'basset, basset hound'
+  },
+  {
+    'imageNetIndex': '161',
+    'kerasIndex': '346',
+    'id': 'n02408429',
+    'text': 'water buffalo, water ox, Asiatic buffalo, Bubalus bubalis'
+  },
+  {
+    'imageNetIndex': '162',
+    'kerasIndex': '295',
+    'id': 'n02133161',
+    'text': 'American black bear, black bear, Ursus americanus, Euarctos americanus'
+  },
+  {
+    'imageNetIndex': '163',
+    'kerasIndex': '332',
+    'id': 'n02328150',
+    'text': 'Angora, Angora rabbit'
+  },
+  {
+    'imageNetIndex': '164',
+    'kerasIndex': '347',
+    'id': 'n02410509',
+    'text': 'bison'
+  },
+  {
+    'imageNetIndex': '165',
+    'kerasIndex': '379',
+    'id': 'n02492660',
+    'text': 'howler monkey, howler'
+  },
+  {
+    'imageNetIndex': '166',
+    'kerasIndex': '344',
+    'id': 'n02398521',
+    'text': 'hippopotamus, hippo, river horse, Hippopotamus amphibius'
+  },
+  {
+    'imageNetIndex': '167',
+    'kerasIndex': '260',
+    'id': 'n02112137',
+    'text': 'chow, chow chow'
+  },
+  {
+    'imageNetIndex': '168',
+    'kerasIndex': '388',
+    'id': 'n02510455',
+    'text': 'giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca'
+  },
+  {
+    'imageNetIndex': '169',
+    'kerasIndex': '180',
+    'id': 'n02093428',
+    'text': 'American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier'
+  },
+  {
+    'imageNetIndex': '170',
+    'kerasIndex': '230',
+    'id': 'n02105855',
+    'text': 'Shetland sheepdog, Shetland sheep dog, Shetland'
+  },
+  {
+    'imageNetIndex': '171',
+    'kerasIndex': '257',
+    'id': 'n02111500',
+    'text': 'Great Pyrenees'
+  },
+  {
+    'imageNetIndex': '172',
+    'kerasIndex': '151',
+    'id': 'n02085620',
+    'text': 'Chihuahua'
+  },
+  {
+    'imageNetIndex': '173',
+    'kerasIndex': '281',
+    'id': 'n02123045',
+    'text': 'tabby, tabby cat'
+  },
+  {
+    'imageNetIndex': '174',
+    'kerasIndex': '377',
+    'id': 'n02490219',
+    'text': 'marmoset'
+  },
+  {
+    'imageNetIndex': '175',
+    'kerasIndex': '208',
+    'id': 'n02099712',
+    'text': 'Labrador retriever'
+  },
+  {
+    'imageNetIndex': '176',
+    'kerasIndex': '247',
+    'id': 'n02109525',
+    'text': 'Saint Bernard, St Bernard'
+  },
+  {
+    'imageNetIndex': '177',
+    'kerasIndex': '363',
+    'id': 'n02454379',
+    'text': 'armadillo'
+  },
+  {
+    'imageNetIndex': '178',
+    'kerasIndex': '258',
+    'id': 'n02111889',
+    'text': 'Samoyed, Samoyede'
+  },
+  {
+    'imageNetIndex': '179',
+    'kerasIndex': '164',
+    'id': 'n02088632',
+    'text': 'bluetick'
+  },
+  {
+    'imageNetIndex': '180',
+    'kerasIndex': '168',
+    'id': 'n02090379',
+    'text': 'redbone'
+  },
+  {
+    'imageNetIndex': '181',
+    'kerasIndex': '358',
+    'id': 'n02443114',
+    'text': 'polecat, fitch, foulmart, foumart, Mustela putorius'
+  },
+  {
+    'imageNetIndex': '182',
+    'kerasIndex': '336',
+    'id': 'n02361337',
+    'text': 'marmot'
+  },
+  {
+    'imageNetIndex': '183',
+    'kerasIndex': '227',
+    'id': 'n02105412',
+    'text': 'kelpie'
+  },
+  {
+    'imageNetIndex': '184',
+    'kerasIndex': '368',
+    'id': 'n02483362',
+    'text': 'gibbon, Hylobates lar'
+  },
+  {
+    'imageNetIndex': '185',
+    'kerasIndex': '355',
+    'id': 'n02437616',
+    'text': 'llama'
+  },
+  {
+    'imageNetIndex': '186',
+    'kerasIndex': '237',
+    'id': 'n02107312',
+    'text': 'miniature pinscher'
+  },
+  {
+    'imageNetIndex': '187',
+    'kerasIndex': '330',
+    'id': 'n02325366',
+    'text': 'wood rabbit, cottontail, cottontail rabbit'
+  },
+  {
+    'imageNetIndex': '188',
+    'kerasIndex': '171',
+    'id': 'n02091032',
+    'text': 'Italian greyhound'
+  },
+  {
+    'imageNetIndex': '189',
+    'kerasIndex': '291',
+    'id': 'n02129165',
+    'text': 'lion, king of beasts, Panthera leo'
+  },
+  {
+    'imageNetIndex': '190',
+    'kerasIndex': '219',
+    'id': 'n02102318',
+    'text': 'cocker spaniel, English cocker spaniel, cocker'
+  },
+  {
+    'imageNetIndex': '191',
+    'kerasIndex': '213',
+    'id': 'n02100877',
+    'text': 'Irish setter, red setter'
+  },
+  {
+    'imageNetIndex': '192',
+    'kerasIndex': '149',
+    'id': 'n02074367',
+    'text': 'dugong, Dugong dugon'
+  },
+  {
+    'imageNetIndex': '193',
+    'kerasIndex': '385',
+    'id': 'n02504013',
+    'text': 'Indian elephant, Elephas maximus'
+  },
+  {
+    'imageNetIndex': '194',
+    'kerasIndex': '337',
+    'id': 'n02363005',
+    'text': 'beaver'
+  },
+  {
+    'imageNetIndex': '195',
+    'kerasIndex': '220',
+    'id': 'n02102480',
+    'text': 'Sussex spaniel'
+  },
+  {
+    'imageNetIndex': '196',
+    'kerasIndex': '263',
+    'id': 'n02113023',
+    'text': 'Pembroke, Pembroke Welsh corgi'
+  },
+  {
+    'imageNetIndex': '197',
+    'kerasIndex': '156',
+    'id': 'n02086646',
+    'text': 'Blenheim spaniel'
+  },
+  {
+    'imageNetIndex': '198',
+    'kerasIndex': '383',
+    'id': 'n02497673',
+    'text': 'Madagascar cat, ring-tailed lemur, Lemur catta'
+  },
+  {
+    'imageNetIndex': '199',
+    'kerasIndex': '159',
+    'id': 'n02087394',
+    'text': 'Rhodesian ridgeback'
+  },
+  {
+    'imageNetIndex': '200',
+    'kerasIndex': '287',
+    'id': 'n02127052',
+    'text': 'lynx, catamount'
+  },
+  {
+    'imageNetIndex': '201',
+    'kerasIndex': '275',
+    'id': 'n02116738',
+    'text': 'African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus'
+  },
+  {
+    'imageNetIndex': '202',
+    'kerasIndex': '374',
+    'id': 'n02488291',
+    'text': 'langur'
+  },
+  {
+    'imageNetIndex': '203',
+    'kerasIndex': '173',
+    'id': 'n02091244',
+    'text': 'Ibizan hound, Ibizan Podenco'
+  },
+  {
+    'imageNetIndex': '204',
+    'kerasIndex': '269',
+    'id': 'n02114367',
+    'text': 'timber wolf, grey wolf, gray wolf, Canis lupus'
+  },
+  {
+    'imageNetIndex': '205',
+    'kerasIndex': '293',
+    'id': 'n02130308',
+    'text': 'cheetah, chetah, Acinonyx jubatus'
+  },
+  {
+    'imageNetIndex': '206',
+    'kerasIndex': '167',
+    'id': 'n02089973',
+    'text': 'English foxhound'
+  },
+  {
+    'imageNetIndex': '207',
+    'kerasIndex': '226',
+    'id': 'n02105251',
+    'text': 'briard'
+  },
+  {
+    'imageNetIndex': '208',
+    'kerasIndex': '297',
+    'id': 'n02134418',
+    'text': 'sloth bear, Melursus ursinus, Ursus ursinus'
+  },
+  {
+    'imageNetIndex': '209',
+    'kerasIndex': '182',
+    'id': 'n02093754',
+    'text': 'Border terrier'
+  },
+  {
+    'imageNetIndex': '210',
+    'kerasIndex': '235',
+    'id': 'n02106662',
+    'text': 'German shepherd, German shepherd dog, German police dog, alsatian'
+  },
+  {
+    'imageNetIndex': '211',
+    'kerasIndex': '360',
+    'id': 'n02444819',
+    'text': 'otter'
+  },
+  {
+    'imageNetIndex': '212',
+    'kerasIndex': '105',
+    'id': 'n01882714',
+    'text': 'koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus'
+  },
+  {
+    'imageNetIndex': '213',
+    'kerasIndex': '101',
+    'id': 'n01871265',
+    'text': 'tusker'
+  },
+  {
+    'imageNetIndex': '214',
+    'kerasIndex': '102',
+    'id': 'n01872401',
+    'text': 'echidna, spiny anteater, anteater'
+  },
+  {
+    'imageNetIndex': '215',
+    'kerasIndex': '104',
+    'id': 'n01877812',
+    'text': 'wallaby, brush kangaroo'
+  },
+  {
+    'imageNetIndex': '216',
+    'kerasIndex': '103',
+    'id': 'n01873310',
+    'text': 'platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus'
+  },
+  {
+    'imageNetIndex': '217',
+    'kerasIndex': '106',
+    'id': 'n01883070',
+    'text': 'wombat'
+  },
+  {
+    'imageNetIndex': '218',
+    'kerasIndex': '763',
+    'id': 'n04086273',
+    'text': 'revolver, six-gun, six-shooter'
+  },
+  {
+    'imageNetIndex': '219',
+    'kerasIndex': '879',
+    'id': 'n04507155',
+    'text': 'umbrella'
+  },
+  {
+    'imageNetIndex': '220',
+    'kerasIndex': '780',
+    'id': 'n04147183',
+    'text': 'schooner'
+  },
+  {
+    'imageNetIndex': '221',
+    'kerasIndex': '805',
+    'id': 'n04254680',
+    'text': 'soccer ball'
+  },
+  {
+    'imageNetIndex': '222',
+    'kerasIndex': '401',
+    'id': 'n02672831',
+    'text': 'accordion, piano accordion, squeeze box'
+  },
+  {
+    'imageNetIndex': '223',
+    'kerasIndex': '310',
+    'id': 'n02219486',
+    'text': 'ant, emmet, pismire'
+  },
+  {
+    'imageNetIndex': '224',
+    'kerasIndex': '327',
+    'id': 'n02317335',
+    'text': 'starfish, sea star'
+  },
+  {
+    'imageNetIndex': '225',
+    'kerasIndex': '117',
+    'id': 'n01968897',
+    'text': 'chambered nautilus, pearly nautilus, nautilus'
+  },
+  {
+    'imageNetIndex': '226',
+    'kerasIndex': '579',
+    'id': 'n03452741',
+    'text': 'grand piano, grand'
+  },
+  {
+    'imageNetIndex': '227',
+    'kerasIndex': '620',
+    'id': 'n03642806',
+    'text': 'laptop, laptop computer'
+  },
+  {
+    'imageNetIndex': '228',
+    'kerasIndex': '949',
+    'id': 'n07745940',
+    'text': 'strawberry'
+  },
+  {
+    'imageNetIndex': '229',
+    'kerasIndex': '404',
+    'id': 'n02690373',
+    'text': 'airliner'
+  },
+  {
+    'imageNetIndex': '230',
+    'kerasIndex': '895',
+    'id': 'n04552348',
+    'text': 'warplane, military plane'
+  },
+  {
+    'imageNetIndex': '231',
+    'kerasIndex': '405',
+    'id': 'n02692877',
+    'text': 'airship, dirigible'
+  },
+  {
+    'imageNetIndex': '232',
+    'kerasIndex': '417',
+    'id': 'n02782093',
+    'text': 'balloon'
+  },
+  {
+    'imageNetIndex': '233',
+    'kerasIndex': '812',
+    'id': 'n04266014',
+    'text': 'space shuttle'
+  },
+  {
+    'imageNetIndex': '234',
+    'kerasIndex': '554',
+    'id': 'n03344393',
+    'text': 'fireboat'
+  },
+  {
+    'imageNetIndex': '235',
+    'kerasIndex': '576',
+    'id': 'n03447447',
+    'text': 'gondola'
+  },
+  {
+    'imageNetIndex': '236',
+    'kerasIndex': '814',
+    'id': 'n04273569',
+    'text': 'speedboat'
+  },
+  {
+    'imageNetIndex': '237',
+    'kerasIndex': '625',
+    'id': 'n03662601',
+    'text': 'lifeboat'
+  },
+  {
+    'imageNetIndex': '238',
+    'kerasIndex': '472',
+    'id': 'n02951358',
+    'text': 'canoe'
+  },
+  {
+    'imageNetIndex': '239',
+    'kerasIndex': '914',
+    'id': 'n04612504',
+    'text': 'yawl'
+  },
+  {
+    'imageNetIndex': '240',
+    'kerasIndex': '484',
+    'id': 'n02981792',
+    'text': 'catamaran'
+  },
+  {
+    'imageNetIndex': '241',
+    'kerasIndex': '871',
+    'id': 'n04483307',
+    'text': 'trimaran'
+  },
+  {
+    'imageNetIndex': '242',
+    'kerasIndex': '510',
+    'id': 'n03095699',
+    'text': 'container ship, containership, container vessel'
+  },
+  {
+    'imageNetIndex': '243',
+    'kerasIndex': '628',
+    'id': 'n03673027',
+    'text': 'liner, ocean liner'
+  },
+  {
+    'imageNetIndex': '244',
+    'kerasIndex': '724',
+    'id': 'n03947888',
+    'text': 'pirate, pirate ship'
+  },
+  {
+    'imageNetIndex': '245',
+    'kerasIndex': '403',
+    'id': 'n02687172',
+    'text': 'aircraft carrier, carrier, flattop, attack aircraft carrier'
+  },
+  {
+    'imageNetIndex': '246',
+    'kerasIndex': '833',
+    'id': 'n04347754',
+    'text': 'submarine, pigboat, sub, U-boat'
+  },
+  {
+    'imageNetIndex': '247',
+    'kerasIndex': '913',
+    'id': 'n04606251',
+    'text': 'wreck'
+  },
+  {
+    'imageNetIndex': '248',
+    'kerasIndex': '586',
+    'id': 'n03478589',
+    'text': 'half track'
+  },
+  {
+    'imageNetIndex': '249',
+    'kerasIndex': '847',
+    'id': 'n04389033',
+    'text': 'tank, army tank, armored combat vehicle, armoured combat vehicle'
+  },
+  {
+    'imageNetIndex': '250',
+    'kerasIndex': '657',
+    'id': 'n03773504',
+    'text': 'missile'
+  },
+  {
+    'imageNetIndex': '251',
+    'kerasIndex': '450',
+    'id': 'n02860847',
+    'text': 'bobsled, bobsleigh, bob'
+  },
+  {
+    'imageNetIndex': '252',
+    'kerasIndex': '537',
+    'id': 'n03218198',
+    'text': 'dogsled, dog sled, dog sleigh'
+  },
+  {
+    'imageNetIndex': '253',
+    'kerasIndex': '444',
+    'id': 'n02835271',
+    'text': 'bicycle-built-for-two, tandem bicycle, tandem'
+  },
+  {
+    'imageNetIndex': '254',
+    'kerasIndex': '671',
+    'id': 'n03792782',
+    'text': 'mountain bike, all-terrain bike, off-roader'
+  },
+  {
+    'imageNetIndex': '255',
+    'kerasIndex': '565',
+    'id': 'n03393912',
+    'text': 'freight car'
+  },
+  {
+    'imageNetIndex': '256',
+    'kerasIndex': '705',
+    'id': 'n03895866',
+    'text': 'passenger car, coach, carriage'
+  },
+  {
+    'imageNetIndex': '257',
+    'kerasIndex': '428',
+    'id': 'n02797295',
+    'text': 'barrow, garden cart, lawn cart, wheelbarrow'
+  },
+  {
+    'imageNetIndex': '258',
+    'kerasIndex': '791',
+    'id': 'n04204347',
+    'text': 'shopping cart'
+  },
+  {
+    'imageNetIndex': '259',
+    'kerasIndex': '670',
+    'id': 'n03791053',
+    'text': 'motor scooter, scooter'
+  },
+  {
+    'imageNetIndex': '260',
+    'kerasIndex': '561',
+    'id': 'n03384352',
+    'text': 'forklift'
+  },
+  {
+    'imageNetIndex': '261',
+    'kerasIndex': '547',
+    'id': 'n03272562',
+    'text': 'electric locomotive'
+  },
+  {
+    'imageNetIndex': '262',
+    'kerasIndex': '820',
+    'id': 'n04310018',
+    'text': 'steam locomotive'
+  },
+  {
+    'imageNetIndex': '263',
+    'kerasIndex': '408',
+    'id': 'n02704792',
+    'text': 'amphibian, amphibious vehicle'
+  },
+  {
+    'imageNetIndex': '264',
+    'kerasIndex': '407',
+    'id': 'n02701002',
+    'text': 'ambulance'
+  },
+  {
+    'imageNetIndex': '265',
+    'kerasIndex': '436',
+    'id': 'n02814533',
+    'text': 'beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon'
+  },
+  {
+    'imageNetIndex': '266',
+    'kerasIndex': '468',
+    'id': 'n02930766',
+    'text': 'cab, hack, taxi, taxicab'
+  },
+  {
+    'imageNetIndex': '267',
+    'kerasIndex': '511',
+    'id': 'n03100240',
+    'text': 'convertible'
+  },
+  {
+    'imageNetIndex': '268',
+    'kerasIndex': '609',
+    'id': 'n03594945',
+    'text': 'jeep, landrover'
+  },
+  {
+    'imageNetIndex': '269',
+    'kerasIndex': '627',
+    'id': 'n03670208',
+    'text': 'limousine, limo'
+  },
+  {
+    'imageNetIndex': '270',
+    'kerasIndex': '656',
+    'id': 'n03770679',
+    'text': 'minivan'
+  },
+  {
+    'imageNetIndex': '271',
+    'kerasIndex': '661',
+    'id': 'n03777568',
+    'text': 'Model T'
+  },
+  {
+    'imageNetIndex': '272',
+    'kerasIndex': '751',
+    'id': 'n04037443',
+    'text': 'racer, race car, racing car'
+  },
+  {
+    'imageNetIndex': '273',
+    'kerasIndex': '817',
+    'id': 'n04285008',
+    'text': 'sports car, sport car'
+  },
+  {
+    'imageNetIndex': '274',
+    'kerasIndex': '573',
+    'id': 'n03444034',
+    'text': 'go-kart'
+  },
+  {
+    'imageNetIndex': '275',
+    'kerasIndex': '575',
+    'id': 'n03445924',
+    'text': 'golfcart, golf cart'
+  },
+  {
+    'imageNetIndex': '276',
+    'kerasIndex': '665',
+    'id': 'n03785016',
+    'text': 'moped'
+  },
+  {
+    'imageNetIndex': '277',
+    'kerasIndex': '803',
+    'id': 'n04252225',
+    'text': 'snowplow, snowplough'
+  },
+  {
+    'imageNetIndex': '278',
+    'kerasIndex': '555',
+    'id': 'n03345487',
+    'text': 'fire engine, fire truck'
+  },
+  {
+    'imageNetIndex': '279',
+    'kerasIndex': '569',
+    'id': 'n03417042',
+    'text': 'garbage truck, dustcart'
+  },
+  {
+    'imageNetIndex': '280',
+    'kerasIndex': '717',
+    'id': 'n03930630',
+    'text': 'pickup, pickup truck'
+  },
+  {
+    'imageNetIndex': '281',
+    'kerasIndex': '864',
+    'id': 'n04461696',
+    'text': 'tow truck, tow car, wrecker'
+  },
+  {
+    'imageNetIndex': '282',
+    'kerasIndex': '867',
+    'id': 'n04467665',
+    'text': 'trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi'
+  },
+  {
+    'imageNetIndex': '283',
+    'kerasIndex': '675',
+    'id': 'n03796401',
+    'text': 'moving van'
+  },
+  {
+    'imageNetIndex': '284',
+    'kerasIndex': '734',
+    'id': 'n03977966',
+    'text': 'police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria'
+  },
+  {
+    'imageNetIndex': '285',
+    'kerasIndex': '757',
+    'id': 'n04065272',
+    'text': 'recreational vehicle, RV, R.V.'
+  },
+  {
+    'imageNetIndex': '286',
+    'kerasIndex': '829',
+    'id': 'n04335435',
+    'text': 'streetcar, tram, tramcar, trolley, trolley car'
+  },
+  {
+    'imageNetIndex': '287',
+    'kerasIndex': '802',
+    'id': 'n04252077',
+    'text': 'snowmobile'
+  },
+  {
+    'imageNetIndex': '288',
+    'kerasIndex': '866',
+    'id': 'n04465501',
+    'text': 'tractor'
+  },
+  {
+    'imageNetIndex': '289',
+    'kerasIndex': '660',
+    'id': 'n03776460',
+    'text': 'mobile home, manufactured home'
+  },
+  {
+    'imageNetIndex': '290',
+    'kerasIndex': '870',
+    'id': 'n04482393',
+    'text': 'tricycle, trike, velocipede'
+  },
+  {
+    'imageNetIndex': '291',
+    'kerasIndex': '880',
+    'id': 'n04509417',
+    'text': 'unicycle, monocycle'
+  },
+  {
+    'imageNetIndex': '292',
+    'kerasIndex': '603',
+    'id': 'n03538406',
+    'text': 'horse cart, horse-cart'
+  },
+  {
+    'imageNetIndex': '293',
+    'kerasIndex': '612',
+    'id': 'n03599486',
+    'text': 'jinrikisha, ricksha, rickshaw'
+  },
+  {
+    'imageNetIndex': '294',
+    'kerasIndex': '690',
+    'id': 'n03868242',
+    'text': 'oxcart'
+  },
+  {
+    'imageNetIndex': '295',
+    'kerasIndex': '431',
+    'id': 'n02804414',
+    'text': 'bassinet'
+  },
+  {
+    'imageNetIndex': '296',
+    'kerasIndex': '516',
+    'id': 'n03125729',
+    'text': 'cradle'
+  },
+  {
+    'imageNetIndex': '297',
+    'kerasIndex': '520',
+    'id': 'n03131574',
+    'text': 'crib, cot'
+  },
+  {
+    'imageNetIndex': '298',
+    'kerasIndex': '564',
+    'id': 'n03388549',
+    'text': 'four-poster'
+  },
+  {
+    'imageNetIndex': '299',
+    'kerasIndex': '453',
+    'id': 'n02870880',
+    'text': 'bookcase'
+  },
+  {
+    'imageNetIndex': '300',
+    'kerasIndex': '495',
+    'id': 'n03018349',
+    'text': 'china cabinet, china closet'
+  },
+  {
+    'imageNetIndex': '301',
+    'kerasIndex': '648',
+    'id': 'n03742115',
+    'text': 'medicine chest, medicine cabinet'
+  },
+  {
+    'imageNetIndex': '302',
+    'kerasIndex': '493',
+    'id': 'n03016953',
+    'text': 'chiffonier, commode'
+  },
+  {
+    'imageNetIndex': '303',
+    'kerasIndex': '846',
+    'id': 'n04380533',
+    'text': 'table lamp'
+  },
+  {
+    'imageNetIndex': '304',
+    'kerasIndex': '553',
+    'id': 'n03337140',
+    'text': 'file, file cabinet, filing cabinet'
+  },
+  {
+    'imageNetIndex': '305',
+    'kerasIndex': '703',
+    'id': 'n03891251',
+    'text': 'park bench'
+  },
+  {
+    'imageNetIndex': '306',
+    'kerasIndex': '423',
+    'id': 'n02791124',
+    'text': 'barber chair'
+  },
+  {
+    'imageNetIndex': '307',
+    'kerasIndex': '857',
+    'id': 'n04429376',
+    'text': 'throne'
+  },
+  {
+    'imageNetIndex': '308',
+    'kerasIndex': '559',
+    'id': 'n03376595',
+    'text': 'folding chair'
+  },
+  {
+    'imageNetIndex': '309',
+    'kerasIndex': '765',
+    'id': 'n04099969',
+    'text': 'rocking chair, rocker'
+  },
+  {
+    'imageNetIndex': '310',
+    'kerasIndex': '831',
+    'id': 'n04344873',
+    'text': 'studio couch, day bed'
+  },
+  {
+    'imageNetIndex': '311',
+    'kerasIndex': '861',
+    'id': 'n04447861',
+    'text': 'toilet seat'
+  },
+  {
+    'imageNetIndex': '312',
+    'kerasIndex': '526',
+    'id': 'n03179701',
+    'text': 'desk'
+  },
+  {
+    'imageNetIndex': '313',
+    'kerasIndex': '736',
+    'id': 'n03982430',
+    'text': 'pool table, billiard table, snooker table'
+  },
+  {
+    'imageNetIndex': '314',
+    'kerasIndex': '532',
+    'id': 'n03201208',
+    'text': 'dining table, board'
+  },
+  {
+    'imageNetIndex': '315',
+    'kerasIndex': '548',
+    'id': 'n03290653',
+    'text': 'entertainment center'
+  },
+  {
+    'imageNetIndex': '316',
+    'kerasIndex': '894',
+    'id': 'n04550184',
+    'text': 'wardrobe, closet, press'
+  },
+  {
+    'imageNetIndex': '317',
+    'kerasIndex': '948',
+    'id': 'n07742313',
+    'text': 'Granny Smith'
+  },
+  {
+    'imageNetIndex': '318',
+    'kerasIndex': '950',
+    'id': 'n07747607',
+    'text': 'orange'
+  },
+  {
+    'imageNetIndex': '319',
+    'kerasIndex': '951',
+    'id': 'n07749582',
+    'text': 'lemon'
+  },
+  {
+    'imageNetIndex': '320',
+    'kerasIndex': '952',
+    'id': 'n07753113',
+    'text': 'fig'
+  },
+  {
+    'imageNetIndex': '321',
+    'kerasIndex': '953',
+    'id': 'n07753275',
+    'text': 'pineapple, ananas'
+  },
+  {
+    'imageNetIndex': '322',
+    'kerasIndex': '954',
+    'id': 'n07753592',
+    'text': 'banana'
+  },
+  {
+    'imageNetIndex': '323',
+    'kerasIndex': '955',
+    'id': 'n07754684',
+    'text': 'jackfruit, jak, jack'
+  },
+  {
+    'imageNetIndex': '324',
+    'kerasIndex': '956',
+    'id': 'n07760859',
+    'text': 'custard apple'
+  },
+  {
+    'imageNetIndex': '325',
+    'kerasIndex': '957',
+    'id': 'n07768694',
+    'text': 'pomegranate'
+  },
+  {
+    'imageNetIndex': '326',
+    'kerasIndex': '988',
+    'id': 'n12267677',
+    'text': 'acorn'
+  },
+  {
+    'imageNetIndex': '327',
+    'kerasIndex': '989',
+    'id': 'n12620546',
+    'text': 'hip, rose hip, rosehip'
+  },
+  {
+    'imageNetIndex': '328',
+    'kerasIndex': '998',
+    'id': 'n13133613',
+    'text': 'ear, spike, capitulum'
+  },
+  {
+    'imageNetIndex': '329',
+    'kerasIndex': '984',
+    'id': 'n11879895',
+    'text': 'rapeseed'
+  },
+  {
+    'imageNetIndex': '330',
+    'kerasIndex': '987',
+    'id': 'n12144580',
+    'text': 'corn'
+  },
+  {
+    'imageNetIndex': '331',
+    'kerasIndex': '990',
+    'id': 'n12768682',
+    'text': 'buckeye, horse chestnut, conker'
+  },
+  {
+    'imageNetIndex': '332',
+    'kerasIndex': '687',
+    'id': 'n03854065',
+    'text': 'organ, pipe organ'
+  },
+  {
+    'imageNetIndex': '333',
+    'kerasIndex': '881',
+    'id': 'n04515003',
+    'text': 'upright, upright piano'
+  },
+  {
+    'imageNetIndex': '334',
+    'kerasIndex': '494',
+    'id': 'n03017168',
+    'text': 'chime, bell, gong'
+  },
+  {
+    'imageNetIndex': '335',
+    'kerasIndex': '541',
+    'id': 'n03249569',
+    'text': 'drum, membranophone, tympan'
+  },
+  {
+    'imageNetIndex': '336',
+    'kerasIndex': '577',
+    'id': 'n03447721',
+    'text': 'gong, tam-tam'
+  },
+  {
+    'imageNetIndex': '337',
+    'kerasIndex': '641',
+    'id': 'n03720891',
+    'text': 'maraca'
+  },
+  {
+    'imageNetIndex': '338',
+    'kerasIndex': '642',
+    'id': 'n03721384',
+    'text': 'marimba, xylophone'
+  },
+  {
+    'imageNetIndex': '339',
+    'kerasIndex': '822',
+    'id': 'n04311174',
+    'text': 'steel drum'
+  },
+  {
+    'imageNetIndex': '340',
+    'kerasIndex': '420',
+    'id': 'n02787622',
+    'text': 'banjo'
+  },
+  {
+    'imageNetIndex': '341',
+    'kerasIndex': '486',
+    'id': 'n02992211',
+    'text': 'cello, violoncello'
+  },
+  {
+    'imageNetIndex': '342',
+    'kerasIndex': '889',
+    'id': 'n04536866',
+    'text': 'violin, fiddle'
+  },
+  {
+    'imageNetIndex': '343',
+    'kerasIndex': '594',
+    'id': 'n03495258',
+    'text': 'harp'
+  },
+  {
+    'imageNetIndex': '344',
+    'kerasIndex': '402',
+    'id': 'n02676566',
+    'text': 'acoustic guitar'
+  },
+  {
+    'imageNetIndex': '345',
+    'kerasIndex': '546',
+    'id': 'n03272010',
+    'text': 'electric guitar'
+  },
+  {
+    'imageNetIndex': '346',
+    'kerasIndex': '513',
+    'id': 'n03110669',
+    'text': 'cornet, horn, trumpet, trump'
+  },
+  {
+    'imageNetIndex': '347',
+    'kerasIndex': '566',
+    'id': 'n03394916',
+    'text': 'French horn, horn'
+  },
+  {
+    'imageNetIndex': '348',
+    'kerasIndex': '875',
+    'id': 'n04487394',
+    'text': 'trombone'
+  },
+  {
+    'imageNetIndex': '349',
+    'kerasIndex': '593',
+    'id': 'n03494278',
+    'text': 'harmonica, mouth organ, harp, mouth harp'
+  },
+  {
+    'imageNetIndex': '350',
+    'kerasIndex': '684',
+    'id': 'n03840681',
+    'text': 'ocarina, sweet potato'
+  },
+  {
+    'imageNetIndex': '351',
+    'kerasIndex': '699',
+    'id': 'n03884397',
+    'text': 'panpipe, pandean pipe, syrinx'
+  },
+  {
+    'imageNetIndex': '352',
+    'kerasIndex': '432',
+    'id': 'n02804610',
+    'text': 'bassoon'
+  },
+  {
+    'imageNetIndex': '353',
+    'kerasIndex': '683',
+    'id': 'n03838899',
+    'text': 'oboe, hautboy, hautbois'
+  },
+  {
+    'imageNetIndex': '354',
+    'kerasIndex': '776',
+    'id': 'n04141076',
+    'text': 'sax, saxophone'
+  },
+  {
+    'imageNetIndex': '355',
+    'kerasIndex': '558',
+    'id': 'n03372029',
+    'text': 'flute, transverse flute'
+  },
+  {
+    'imageNetIndex': '356',
+    'kerasIndex': '985',
+    'id': 'n11939491',
+    'text': 'daisy'
+  },
+  {
+    'imageNetIndex': '357',
+    'kerasIndex': '986',
+    'id': 'n12057211',
+    'text': "yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum"
+  },
+  {
+    'imageNetIndex': '358',
+    'kerasIndex': '972',
+    'id': 'n09246464',
+    'text': 'cliff, drop, drop-off'
+  },
+  {
+    'imageNetIndex': '359',
+    'kerasIndex': '979',
+    'id': 'n09468604',
+    'text': 'valley, vale'
+  },
+  {
+    'imageNetIndex': '360',
+    'kerasIndex': '970',
+    'id': 'n09193705',
+    'text': 'alp'
+  },
+  {
+    'imageNetIndex': '361',
+    'kerasIndex': '980',
+    'id': 'n09472597',
+    'text': 'volcano'
+  },
+  {
+    'imageNetIndex': '362',
+    'kerasIndex': '976',
+    'id': 'n09399592',
+    'text': 'promontory, headland, head, foreland'
+  },
+  {
+    'imageNetIndex': '363',
+    'kerasIndex': '977',
+    'id': 'n09421951',
+    'text': 'sandbar, sand bar'
+  },
+  {
+    'imageNetIndex': '364',
+    'kerasIndex': '973',
+    'id': 'n09256479',
+    'text': 'coral reef'
+  },
+  {
+    'imageNetIndex': '365',
+    'kerasIndex': '975',
+    'id': 'n09332890',
+    'text': 'lakeside, lakeshore'
+  },
+  {
+    'imageNetIndex': '366',
+    'kerasIndex': '978',
+    'id': 'n09428293',
+    'text': 'seashore, coast, seacoast, sea-coast'
+  },
+  {
+    'imageNetIndex': '367',
+    'kerasIndex': '974',
+    'id': 'n09288635',
+    'text': 'geyser'
+  },
+  {
+    'imageNetIndex': '368',
+    'kerasIndex': '596',
+    'id': 'n03498962',
+    'text': 'hatchet'
+  },
+  {
+    'imageNetIndex': '369',
+    'kerasIndex': '499',
+    'id': 'n03041632',
+    'text': 'cleaver, meat cleaver, chopper'
+  },
+  {
+    'imageNetIndex': '370',
+    'kerasIndex': '623',
+    'id': 'n03658185',
+    'text': 'letter opener, paper knife, paperknife'
+  },
+  {
+    'imageNetIndex': '371',
+    'kerasIndex': '726',
+    'id': 'n03954731',
+    'text': "plane, carpenter's plane, woodworking plane"
+  },
+  {
+    'imageNetIndex': '372',
+    'kerasIndex': '740',
+    'id': 'n03995372',
+    'text': 'power drill'
+  },
+  {
+    'imageNetIndex': '373',
+    'kerasIndex': '621',
+    'id': 'n03649909',
+    'text': 'lawn mower, mower'
+  },
+  {
+    'imageNetIndex': '374',
+    'kerasIndex': '587',
+    'id': 'n03481172',
+    'text': 'hammer'
+  },
+  {
+    'imageNetIndex': '375',
+    'kerasIndex': '512',
+    'id': 'n03109150',
+    'text': 'corkscrew, bottle screw'
+  },
+  {
+    'imageNetIndex': '376',
+    'kerasIndex': '473',
+    'id': 'n02951585',
+    'text': 'can opener, tin opener'
+  },
+  {
+    'imageNetIndex': '377',
+    'kerasIndex': '731',
+    'id': 'n03970156',
+    'text': "plunger, plumber's helper"
+  },
+  {
+    'imageNetIndex': '378',
+    'kerasIndex': '784',
+    'id': 'n04154565',
+    'text': 'screwdriver'
+  },
+  {
+    'imageNetIndex': '379',
+    'kerasIndex': '792',
+    'id': 'n04208210',
+    'text': 'shovel'
+  },
+  {
+    'imageNetIndex': '380',
+    'kerasIndex': '730',
+    'id': 'n03967562',
+    'text': 'plow, plough'
+  },
+  {
+    'imageNetIndex': '381',
+    'kerasIndex': '491',
+    'id': 'n03000684',
+    'text': 'chain saw, chainsaw'
+  },
+  {
+    'imageNetIndex': '382',
+    'kerasIndex': '7',
+    'id': 'n01514668',
+    'text': 'cock'
+  },
+  {
+    'imageNetIndex': '383',
+    'kerasIndex': '8',
+    'id': 'n01514859',
+    'text': 'hen'
+  },
+  {
+    'imageNetIndex': '384',
+    'kerasIndex': '9',
+    'id': 'n01518878',
+    'text': 'ostrich, Struthio camelus'
+  },
+  {
+    'imageNetIndex': '385',
+    'kerasIndex': '10',
+    'id': 'n01530575',
+    'text': 'brambling, Fringilla montifringilla'
+  },
+  {
+    'imageNetIndex': '386',
+    'kerasIndex': '11',
+    'id': 'n01531178',
+    'text': 'goldfinch, Carduelis carduelis'
+  },
+  {
+    'imageNetIndex': '387',
+    'kerasIndex': '12',
+    'id': 'n01532829',
+    'text': 'house finch, linnet, Carpodacus mexicanus'
+  },
+  {
+    'imageNetIndex': '388',
+    'kerasIndex': '13',
+    'id': 'n01534433',
+    'text': 'junco, snowbird'
+  },
+  {
+    'imageNetIndex': '389',
+    'kerasIndex': '14',
+    'id': 'n01537544',
+    'text': 'indigo bunting, indigo finch, indigo bird, Passerina cyanea'
+  },
+  {
+    'imageNetIndex': '390',
+    'kerasIndex': '15',
+    'id': 'n01558993',
+    'text': 'robin, American robin, Turdus migratorius'
+  },
+  {
+    'imageNetIndex': '391',
+    'kerasIndex': '16',
+    'id': 'n01560419',
+    'text': 'bulbul'
+  },
+  {
+    'imageNetIndex': '392',
+    'kerasIndex': '17',
+    'id': 'n01580077',
+    'text': 'jay'
+  },
+  {
+    'imageNetIndex': '393',
+    'kerasIndex': '18',
+    'id': 'n01582220',
+    'text': 'magpie'
+  },
+  {
+    'imageNetIndex': '394',
+    'kerasIndex': '19',
+    'id': 'n01592084',
+    'text': 'chickadee'
+  },
+  {
+    'imageNetIndex': '395',
+    'kerasIndex': '20',
+    'id': 'n01601694',
+    'text': 'water ouzel, dipper'
+  },
+  {
+    'imageNetIndex': '396',
+    'kerasIndex': '21',
+    'id': 'n01608432',
+    'text': 'kite'
+  },
+  {
+    'imageNetIndex': '397',
+    'kerasIndex': '22',
+    'id': 'n01614925',
+    'text': 'bald eagle, American eagle, Haliaeetus leucocephalus'
+  },
+  {
+    'imageNetIndex': '398',
+    'kerasIndex': '23',
+    'id': 'n01616318',
+    'text': 'vulture'
+  },
+  {
+    'imageNetIndex': '399',
+    'kerasIndex': '24',
+    'id': 'n01622779',
+    'text': 'great grey owl, great gray owl, Strix nebulosa'
+  },
+  {
+    'imageNetIndex': '400',
+    'kerasIndex': '80',
+    'id': 'n01795545',
+    'text': 'black grouse'
+  },
+  {
+    'imageNetIndex': '401',
+    'kerasIndex': '81',
+    'id': 'n01796340',
+    'text': 'ptarmigan'
+  },
+  {
+    'imageNetIndex': '402',
+    'kerasIndex': '82',
+    'id': 'n01797886',
+    'text': 'ruffed grouse, partridge, Bonasa umbellus'
+  },
+  {
+    'imageNetIndex': '403',
+    'kerasIndex': '83',
+    'id': 'n01798484',
+    'text': 'prairie chicken, prairie grouse, prairie fowl'
+  },
+  {
+    'imageNetIndex': '404',
+    'kerasIndex': '84',
+    'id': 'n01806143',
+    'text': 'peacock'
+  },
+  {
+    'imageNetIndex': '405',
+    'kerasIndex': '85',
+    'id': 'n01806567',
+    'text': 'quail'
+  },
+  {
+    'imageNetIndex': '406',
+    'kerasIndex': '86',
+    'id': 'n01807496',
+    'text': 'partridge'
+  },
+  {
+    'imageNetIndex': '407',
+    'kerasIndex': '87',
+    'id': 'n01817953',
+    'text': 'African grey, African gray, Psittacus erithacus'
+  },
+  {
+    'imageNetIndex': '408',
+    'kerasIndex': '88',
+    'id': 'n01818515',
+    'text': 'macaw'
+  },
+  {
+    'imageNetIndex': '409',
+    'kerasIndex': '89',
+    'id': 'n01819313',
+    'text': 'sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita'
+  },
+  {
+    'imageNetIndex': '410',
+    'kerasIndex': '90',
+    'id': 'n01820546',
+    'text': 'lorikeet'
+  },
+  {
+    'imageNetIndex': '411',
+    'kerasIndex': '91',
+    'id': 'n01824575',
+    'text': 'coucal'
+  },
+  {
+    'imageNetIndex': '412',
+    'kerasIndex': '92',
+    'id': 'n01828970',
+    'text': 'bee eater'
+  },
+  {
+    'imageNetIndex': '413',
+    'kerasIndex': '93',
+    'id': 'n01829413',
+    'text': 'hornbill'
+  },
+  {
+    'imageNetIndex': '414',
+    'kerasIndex': '94',
+    'id': 'n01833805',
+    'text': 'hummingbird'
+  },
+  {
+    'imageNetIndex': '415',
+    'kerasIndex': '95',
+    'id': 'n01843065',
+    'text': 'jacamar'
+  },
+  {
+    'imageNetIndex': '416',
+    'kerasIndex': '96',
+    'id': 'n01843383',
+    'text': 'toucan'
+  },
+  {
+    'imageNetIndex': '417',
+    'kerasIndex': '97',
+    'id': 'n01847000',
+    'text': 'drake'
+  },
+  {
+    'imageNetIndex': '418',
+    'kerasIndex': '98',
+    'id': 'n01855032',
+    'text': 'red-breasted merganser, Mergus serrator'
+  },
+  {
+    'imageNetIndex': '419',
+    'kerasIndex': '99',
+    'id': 'n01855672',
+    'text': 'goose'
+  },
+  {
+    'imageNetIndex': '420',
+    'kerasIndex': '100',
+    'id': 'n01860187',
+    'text': 'black swan, Cygnus atratus'
+  },
+  {
+    'imageNetIndex': '421',
+    'kerasIndex': '127',
+    'id': 'n02002556',
+    'text': 'white stork, Ciconia ciconia'
+  },
+  {
+    'imageNetIndex': '422',
+    'kerasIndex': '128',
+    'id': 'n02002724',
+    'text': 'black stork, Ciconia nigra'
+  },
+  {
+    'imageNetIndex': '423',
+    'kerasIndex': '129',
+    'id': 'n02006656',
+    'text': 'spoonbill'
+  },
+  {
+    'imageNetIndex': '424',
+    'kerasIndex': '130',
+    'id': 'n02007558',
+    'text': 'flamingo'
+  },
+  {
+    'imageNetIndex': '425',
+    'kerasIndex': '132',
+    'id': 'n02009912',
+    'text': 'American egret, great white heron, Egretta albus'
+  },
+  {
+    'imageNetIndex': '426',
+    'kerasIndex': '131',
+    'id': 'n02009229',
+    'text': 'little blue heron, Egretta caerulea'
+  },
+  {
+    'imageNetIndex': '427',
+    'kerasIndex': '133',
+    'id': 'n02011460',
+    'text': 'bittern'
+  },
+  {
+    'imageNetIndex': '428',
+    'kerasIndex': '134',
+    'id': 'n02012849',
+    'text': 'crane'
+  },
+  {
+    'imageNetIndex': '429',
+    'kerasIndex': '135',
+    'id': 'n02013706',
+    'text': 'limpkin, Aramus pictus'
+  },
+  {
+    'imageNetIndex': '430',
+    'kerasIndex': '137',
+    'id': 'n02018207',
+    'text': 'American coot, marsh hen, mud hen, water hen, Fulica americana'
+  },
+  {
+    'imageNetIndex': '431',
+    'kerasIndex': '138',
+    'id': 'n02018795',
+    'text': 'bustard'
+  },
+  {
+    'imageNetIndex': '432',
+    'kerasIndex': '139',
+    'id': 'n02025239',
+    'text': 'ruddy turnstone, Arenaria interpres'
+  },
+  {
+    'imageNetIndex': '433',
+    'kerasIndex': '140',
+    'id': 'n02027492',
+    'text': 'red-backed sandpiper, dunlin, Erolia alpina'
+  },
+  {
+    'imageNetIndex': '434',
+    'kerasIndex': '141',
+    'id': 'n02028035',
+    'text': 'redshank, Tringa totanus'
+  },
+  {
+    'imageNetIndex': '435',
+    'kerasIndex': '142',
+    'id': 'n02033041',
+    'text': 'dowitcher'
+  },
+  {
+    'imageNetIndex': '436',
+    'kerasIndex': '143',
+    'id': 'n02037110',
+    'text': 'oystercatcher, oyster catcher'
+  },
+  {
+    'imageNetIndex': '437',
+    'kerasIndex': '136',
+    'id': 'n02017213',
+    'text': 'European gallinule, Porphyrio porphyrio'
+  },
+  {
+    'imageNetIndex': '438',
+    'kerasIndex': '144',
+    'id': 'n02051845',
+    'text': 'pelican'
+  },
+  {
+    'imageNetIndex': '439',
+    'kerasIndex': '145',
+    'id': 'n02056570',
+    'text': 'king penguin, Aptenodytes patagonica'
+  },
+  {
+    'imageNetIndex': '440',
+    'kerasIndex': '146',
+    'id': 'n02058221',
+    'text': 'albatross, mollymawk'
+  },
+  {
+    'imageNetIndex': '441',
+    'kerasIndex': '2',
+    'id': 'n01484850',
+    'text': 'great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias'
+  },
+  {
+    'imageNetIndex': '442',
+    'kerasIndex': '3',
+    'id': 'n01491361',
+    'text': 'tiger shark, Galeocerdo cuvieri'
+  },
+  {
+    'imageNetIndex': '443',
+    'kerasIndex': '4',
+    'id': 'n01494475',
+    'text': 'hammerhead, hammerhead shark'
+  },
+  {
+    'imageNetIndex': '444',
+    'kerasIndex': '5',
+    'id': 'n01496331',
+    'text': 'electric ray, crampfish, numbfish, torpedo'
+  },
+  {
+    'imageNetIndex': '445',
+    'kerasIndex': '6',
+    'id': 'n01498041',
+    'text': 'stingray'
+  },
+  {
+    'imageNetIndex': '446',
+    'kerasIndex': '389',
+    'id': 'n02514041',
+    'text': 'barracouta, snoek'
+  },
+  {
+    'imageNetIndex': '447',
+    'kerasIndex': '391',
+    'id': 'n02536864',
+    'text': 'coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch'
+  },
+  {
+    'imageNetIndex': '448',
+    'kerasIndex': '0',
+    'id': 'n01440764',
+    'text': 'tench, Tinca tinca'
+  },
+  {
+    'imageNetIndex': '449',
+    'kerasIndex': '1',
+    'id': 'n01443537',
+    'text': 'goldfish, Carassius auratus'
+  },
+  {
+    'imageNetIndex': '450',
+    'kerasIndex': '390',
+    'id': 'n02526121',
+    'text': 'eel'
+  },
+  {
+    'imageNetIndex': '451',
+    'kerasIndex': '392',
+    'id': 'n02606052',
+    'text': 'rock beauty, Holocanthus tricolor'
+  },
+  {
+    'imageNetIndex': '452',
+    'kerasIndex': '393',
+    'id': 'n02607072',
+    'text': 'anemone fish'
+  },
+  {
+    'imageNetIndex': '453',
+    'kerasIndex': '396',
+    'id': 'n02643566',
+    'text': 'lionfish'
+  },
+  {
+    'imageNetIndex': '454',
+    'kerasIndex': '397',
+    'id': 'n02655020',
+    'text': 'puffer, pufferfish, blowfish, globefish'
+  },
+  {
+    'imageNetIndex': '455',
+    'kerasIndex': '394',
+    'id': 'n02640242',
+    'text': 'sturgeon'
+  },
+  {
+    'imageNetIndex': '456',
+    'kerasIndex': '395',
+    'id': 'n02641379',
+    'text': 'gar, garfish, garpike, billfish, Lepisosteus osseus'
+  },
+  {
+    'imageNetIndex': '457',
+    'kerasIndex': '33',
+    'id': 'n01664065',
+    'text': 'loggerhead, loggerhead turtle, Caretta caretta'
+  },
+  {
+    'imageNetIndex': '458',
+    'kerasIndex': '34',
+    'id': 'n01665541',
+    'text': 'leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea'
+  },
+  {
+    'imageNetIndex': '459',
+    'kerasIndex': '35',
+    'id': 'n01667114',
+    'text': 'mud turtle'
+  },
+  {
+    'imageNetIndex': '460',
+    'kerasIndex': '36',
+    'id': 'n01667778',
+    'text': 'terrapin'
+  },
+  {
+    'imageNetIndex': '461',
+    'kerasIndex': '37',
+    'id': 'n01669191',
+    'text': 'box turtle, box tortoise'
+  },
+  {
+    'imageNetIndex': '462',
+    'kerasIndex': '38',
+    'id': 'n01675722',
+    'text': 'banded gecko'
+  },
+  {
+    'imageNetIndex': '463',
+    'kerasIndex': '39',
+    'id': 'n01677366',
+    'text': 'common iguana, iguana, Iguana iguana'
+  },
+  {
+    'imageNetIndex': '464',
+    'kerasIndex': '40',
+    'id': 'n01682714',
+    'text': 'American chameleon, anole, Anolis carolinensis'
+  },
+  {
+    'imageNetIndex': '465',
+    'kerasIndex': '41',
+    'id': 'n01685808',
+    'text': 'whiptail, whiptail lizard'
+  },
+  {
+    'imageNetIndex': '466',
+    'kerasIndex': '42',
+    'id': 'n01687978',
+    'text': 'agama'
+  },
+  {
+    'imageNetIndex': '467',
+    'kerasIndex': '43',
+    'id': 'n01688243',
+    'text': 'frilled lizard, Chlamydosaurus kingi'
+  },
+  {
+    'imageNetIndex': '468',
+    'kerasIndex': '44',
+    'id': 'n01689811',
+    'text': 'alligator lizard'
+  },
+  {
+    'imageNetIndex': '469',
+    'kerasIndex': '45',
+    'id': 'n01692333',
+    'text': 'Gila monster, Heloderma suspectum'
+  },
+  {
+    'imageNetIndex': '470',
+    'kerasIndex': '46',
+    'id': 'n01693334',
+    'text': 'green lizard, Lacerta viridis'
+  },
+  {
+    'imageNetIndex': '471',
+    'kerasIndex': '47',
+    'id': 'n01694178',
+    'text': 'African chameleon, Chamaeleo chamaeleon'
+  },
+  {
+    'imageNetIndex': '472',
+    'kerasIndex': '48',
+    'id': 'n01695060',
+    'text': 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis'
+  },
+  {
+    'imageNetIndex': '473',
+    'kerasIndex': '51',
+    'id': 'n01704323',
+    'text': 'triceratops'
+  },
+  {
+    'imageNetIndex': '474',
+    'kerasIndex': '49',
+    'id': 'n01697457',
+    'text': 'African crocodile, Nile crocodile, Crocodylus niloticus'
+  },
+  {
+    'imageNetIndex': '475',
+    'kerasIndex': '50',
+    'id': 'n01698640',
+    'text': 'American alligator, Alligator mississipiensis'
+  },
+  {
+    'imageNetIndex': '476',
+    'kerasIndex': '52',
+    'id': 'n01728572',
+    'text': 'thunder snake, worm snake, Carphophis amoenus'
+  },
+  {
+    'imageNetIndex': '477',
+    'kerasIndex': '53',
+    'id': 'n01728920',
+    'text': 'ringneck snake, ring-necked snake, ring snake'
+  },
+  {
+    'imageNetIndex': '478',
+    'kerasIndex': '54',
+    'id': 'n01729322',
+    'text': 'hognose snake, puff adder, sand viper'
+  },
+  {
+    'imageNetIndex': '479',
+    'kerasIndex': '55',
+    'id': 'n01729977',
+    'text': 'green snake, grass snake'
+  },
+  {
+    'imageNetIndex': '480',
+    'kerasIndex': '56',
+    'id': 'n01734418',
+    'text': 'king snake, kingsnake'
+  },
+  {
+    'imageNetIndex': '481',
+    'kerasIndex': '57',
+    'id': 'n01735189',
+    'text': 'garter snake, grass snake'
+  },
+  {
+    'imageNetIndex': '482',
+    'kerasIndex': '58',
+    'id': 'n01737021',
+    'text': 'water snake'
+  },
+  {
+    'imageNetIndex': '483',
+    'kerasIndex': '59',
+    'id': 'n01739381',
+    'text': 'vine snake'
+  },
+  {
+    'imageNetIndex': '484',
+    'kerasIndex': '60',
+    'id': 'n01740131',
+    'text': 'night snake, Hypsiglena torquata'
+  },
+  {
+    'imageNetIndex': '485',
+    'kerasIndex': '61',
+    'id': 'n01742172',
+    'text': 'boa constrictor, Constrictor constrictor'
+  },
+  {
+    'imageNetIndex': '486',
+    'kerasIndex': '62',
+    'id': 'n01744401',
+    'text': 'rock python, rock snake, Python sebae'
+  },
+  {
+    'imageNetIndex': '487',
+    'kerasIndex': '63',
+    'id': 'n01748264',
+    'text': 'Indian cobra, Naja naja'
+  },
+  {
+    'imageNetIndex': '488',
+    'kerasIndex': '64',
+    'id': 'n01749939',
+    'text': 'green mamba'
+  },
+  {
+    'imageNetIndex': '489',
+    'kerasIndex': '65',
+    'id': 'n01751748',
+    'text': 'sea snake'
+  },
+  {
+    'imageNetIndex': '490',
+    'kerasIndex': '66',
+    'id': 'n01753488',
+    'text': 'horned viper, cerastes, sand viper, horned asp, Cerastes cornutus'
+  },
+  {
+    'imageNetIndex': '491',
+    'kerasIndex': '67',
+    'id': 'n01755581',
+    'text': 'diamondback, diamondback rattlesnake, Crotalus adamanteus'
+  },
+  {
+    'imageNetIndex': '492',
+    'kerasIndex': '68',
+    'id': 'n01756291',
+    'text': 'sidewinder, horned rattlesnake, Crotalus cerastes'
+  },
+  {
+    'imageNetIndex': '493',
+    'kerasIndex': '25',
+    'id': 'n01629819',
+    'text': 'European fire salamander, Salamandra salamandra'
+  },
+  {
+    'imageNetIndex': '494',
+    'kerasIndex': '26',
+    'id': 'n01630670',
+    'text': 'common newt, Triturus vulgaris'
+  },
+  {
+    'imageNetIndex': '495',
+    'kerasIndex': '27',
+    'id': 'n01631663',
+    'text': 'eft'
+  },
+  {
+    'imageNetIndex': '496',
+    'kerasIndex': '28',
+    'id': 'n01632458',
+    'text': 'spotted salamander, Ambystoma maculatum'
+  },
+  {
+    'imageNetIndex': '497',
+    'kerasIndex': '29',
+    'id': 'n01632777',
+    'text': 'axolotl, mud puppy, Ambystoma mexicanum'
+  },
+  {
+    'imageNetIndex': '498',
+    'kerasIndex': '30',
+    'id': 'n01641577',
+    'text': 'bullfrog, Rana catesbeiana'
+  },
+  {
+    'imageNetIndex': '499',
+    'kerasIndex': '31',
+    'id': 'n01644373',
+    'text': 'tree frog, tree-frog'
+  },
+  {
+    'imageNetIndex': '500',
+    'kerasIndex': '32',
+    'id': 'n01644900',
+    'text': 'tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui'
+  },
+  {
+    'imageNetIndex': '501',
+    'kerasIndex': '902',
+    'id': 'n04579432',
+    'text': 'whistle'
+  },
+  {
+    'imageNetIndex': '502',
+    'kerasIndex': '908',
+    'id': 'n04592741',
+    'text': 'wing'
+  },
+  {
+    'imageNetIndex': '503',
+    'kerasIndex': '696',
+    'id': 'n03876231',
+    'text': 'paintbrush'
+  },
+  {
+    'imageNetIndex': '504',
+    'kerasIndex': '589',
+    'id': 'n03483316',
+    'text': 'hand blower, blow dryer, blow drier, hair dryer, hair drier'
+  },
+  {
+    'imageNetIndex': '505',
+    'kerasIndex': '691',
+    'id': 'n03868863',
+    'text': 'oxygen mask'
+  },
+  {
+    'imageNetIndex': '506',
+    'kerasIndex': '801',
+    'id': 'n04251144',
+    'text': 'snorkel'
+  },
+  {
+    'imageNetIndex': '507',
+    'kerasIndex': '632',
+    'id': 'n03691459',
+    'text': 'loudspeaker, speaker, speaker unit, loudspeaker system, speaker system'
+  },
+  {
+    'imageNetIndex': '508',
+    'kerasIndex': '650',
+    'id': 'n03759954',
+    'text': 'microphone, mike'
+  },
+  {
+    'imageNetIndex': '509',
+    'kerasIndex': '782',
+    'id': 'n04152593',
+    'text': 'screen, CRT screen'
+  },
+  {
+    'imageNetIndex': '510',
+    'kerasIndex': '673',
+    'id': 'n03793489',
+    'text': 'mouse, computer mouse'
+  },
+  {
+    'imageNetIndex': '511',
+    'kerasIndex': '545',
+    'id': 'n03271574',
+    'text': 'electric fan, blower'
+  },
+  {
+    'imageNetIndex': '512',
+    'kerasIndex': '686',
+    'id': 'n03843555',
+    'text': 'oil filter'
+  },
+  {
+    'imageNetIndex': '513',
+    'kerasIndex': '828',
+    'id': 'n04332243',
+    'text': 'strainer'
+  },
+  {
+    'imageNetIndex': '514',
+    'kerasIndex': '811',
+    'id': 'n04265275',
+    'text': 'space heater'
+  },
+  {
+    'imageNetIndex': '515',
+    'kerasIndex': '827',
+    'id': 'n04330267',
+    'text': 'stove'
+  },
+  {
+    'imageNetIndex': '516',
+    'kerasIndex': '583',
+    'id': 'n03467068',
+    'text': 'guillotine'
+  },
+  {
+    'imageNetIndex': '517',
+    'kerasIndex': '426',
+    'id': 'n02794156',
+    'text': 'barometer'
+  },
+  {
+    'imageNetIndex': '518',
+    'kerasIndex': '769',
+    'id': 'n04118776',
+    'text': 'rule, ruler'
+  },
+  {
+    'imageNetIndex': '519',
+    'kerasIndex': '685',
+    'id': 'n03841143',
+    'text': 'odometer, hodometer, mileometer, milometer'
+  },
+  {
+    'imageNetIndex': '520',
+    'kerasIndex': '778',
+    'id': 'n04141975',
+    'text': 'scale, weighing machine'
+  },
+  {
+    'imageNetIndex': '521',
+    'kerasIndex': '409',
+    'id': 'n02708093',
+    'text': 'analog clock'
+  },
+  {
+    'imageNetIndex': '522',
+    'kerasIndex': '530',
+    'id': 'n03196217',
+    'text': 'digital clock'
+  },
+  {
+    'imageNetIndex': '523',
+    'kerasIndex': '892',
+    'id': 'n04548280',
+    'text': 'wall clock'
+  },
+  {
+    'imageNetIndex': '524',
+    'kerasIndex': '604',
+    'id': 'n03544143',
+    'text': 'hourglass'
+  },
+  {
+    'imageNetIndex': '525',
+    'kerasIndex': '835',
+    'id': 'n04355338',
+    'text': 'sundial'
+  },
+  {
+    'imageNetIndex': '526',
+    'kerasIndex': '704',
+    'id': 'n03891332',
+    'text': 'parking meter'
+  },
+  {
+    'imageNetIndex': '527',
+    'kerasIndex': '826',
+    'id': 'n04328186',
+    'text': 'stopwatch, stop watch'
+  },
+  {
+    'imageNetIndex': '528',
+    'kerasIndex': '531',
+    'id': 'n03197337',
+    'text': 'digital watch'
+  },
+  {
+    'imageNetIndex': '529',
+    'kerasIndex': '823',
+    'id': 'n04317175',
+    'text': 'stethoscope'
+  },
+  {
+    'imageNetIndex': '530',
+    'kerasIndex': '845',
+    'id': 'n04376876',
+    'text': 'syringe'
+  },
+  {
+    'imageNetIndex': '531',
+    'kerasIndex': '635',
+    'id': 'n03706229',
+    'text': 'magnetic compass'
+  },
+  {
+    'imageNetIndex': '532',
+    'kerasIndex': '447',
+    'id': 'n02841315',
+    'text': 'binoculars, field glasses, opera glasses'
+  },
+  {
+    'imageNetIndex': '533',
+    'kerasIndex': '745',
+    'id': 'n04009552',
+    'text': 'projector'
+  },
+  {
+    'imageNetIndex': '534',
+    'kerasIndex': '837',
+    'id': 'n04356056',
+    'text': 'sunglasses, dark glasses, shades'
+  },
+  {
+    'imageNetIndex': '535',
+    'kerasIndex': '633',
+    'id': 'n03692522',
+    'text': "loupe, jeweler's loupe"
+  },
+  {
+    'imageNetIndex': '536',
+    'kerasIndex': '755',
+    'id': 'n04044716',
+    'text': 'radio telescope, radio reflector'
+  },
+  {
+    'imageNetIndex': '537',
+    'kerasIndex': '456',
+    'id': 'n02879718',
+    'text': 'bow'
+  },
+  {
+    'imageNetIndex': '538',
+    'kerasIndex': '471',
+    'id': 'n02950826',
+    'text': 'cannon'
+  },
+  {
+    'imageNetIndex': '539',
+    'kerasIndex': '413',
+    'id': 'n02749479',
+    'text': 'assault rifle, assault gun'
+  },
+  {
+    'imageNetIndex': '540',
+    'kerasIndex': '764',
+    'id': 'n04090263',
+    'text': 'rifle'
+  },
+  {
+    'imageNetIndex': '541',
+    'kerasIndex': '744',
+    'id': 'n04008634',
+    'text': 'projectile, missile'
+  },
+  {
+    'imageNetIndex': '542',
+    'kerasIndex': '508',
+    'id': 'n03085013',
+    'text': 'computer keyboard, keypad'
+  },
+  {
+    'imageNetIndex': '543',
+    'kerasIndex': '878',
+    'id': 'n04505470',
+    'text': 'typewriter keyboard'
+  },
+  {
+    'imageNetIndex': '544',
+    'kerasIndex': '517',
+    'id': 'n03126707',
+    'text': 'crane'
+  },
+  {
+    'imageNetIndex': '545',
+    'kerasIndex': '626',
+    'id': 'n03666591',
+    'text': 'lighter, light, igniter, ignitor'
+  },
+  {
+    'imageNetIndex': '546',
+    'kerasIndex': '398',
+    'id': 'n02666196',
+    'text': 'abacus'
+  },
+  {
+    'imageNetIndex': '547',
+    'kerasIndex': '480',
+    'id': 'n02977058',
+    'text': 'cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM'
+  },
+  {
+    'imageNetIndex': '548',
+    'kerasIndex': '798',
+    'id': 'n04238763',
+    'text': 'slide rule, slipstick'
+  },
+  {
+    'imageNetIndex': '549',
+    'kerasIndex': '527',
+    'id': 'n03180011',
+    'text': 'desktop computer'
+  },
+  {
+    'imageNetIndex': '550',
+    'kerasIndex': '590',
+    'id': 'n03485407',
+    'text': 'hand-held computer, hand-held microcomputer'
+  },
+  {
+    'imageNetIndex': '551',
+    'kerasIndex': '681',
+    'id': 'n03832673',
+    'text': 'notebook, notebook computer'
+  },
+  {
+    'imageNetIndex': '552',
+    'kerasIndex': '916',
+    'id': 'n06359193',
+    'text': 'web site, website, internet site, site'
+  },
+  {
+    'imageNetIndex': '553',
+    'kerasIndex': '595',
+    'id': 'n03496892',
+    'text': 'harvester, reaper'
+  },
+  {
+    'imageNetIndex': '554',
+    'kerasIndex': '856',
+    'id': 'n04428191',
+    'text': 'thresher, thrasher, threshing machine'
+  },
+  {
+    'imageNetIndex': '555',
+    'kerasIndex': '742',
+    'id': 'n04004767',
+    'text': 'printer'
+  },
+  {
+    'imageNetIndex': '556',
+    'kerasIndex': '800',
+    'id': 'n04243546',
+    'text': 'slot, one-armed bandit'
+  },
+  {
+    'imageNetIndex': '557',
+    'kerasIndex': '886',
+    'id': 'n04525305',
+    'text': 'vending machine'
+  },
+  {
+    'imageNetIndex': '558',
+    'kerasIndex': '786',
+    'id': 'n04179913',
+    'text': 'sewing machine'
+  },
+  {
+    'imageNetIndex': '559',
+    'kerasIndex': '613',
+    'id': 'n03602883',
+    'text': 'joystick'
+  },
+  {
+    'imageNetIndex': '560',
+    'kerasIndex': '844',
+    'id': 'n04372370',
+    'text': 'switch, electric switch, electrical switch'
+  },
+  {
+    'imageNetIndex': '561',
+    'kerasIndex': '600',
+    'id': 'n03532672',
+    'text': 'hook, claw'
+  },
+  {
+    'imageNetIndex': '562',
+    'kerasIndex': '479',
+    'id': 'n02974003',
+    'text': 'car wheel'
+  },
+  {
+    'imageNetIndex': '563',
+    'kerasIndex': '694',
+    'id': 'n03874293',
+    'text': 'paddlewheel, paddle wheel'
+  },
+  {
+    'imageNetIndex': '564',
+    'kerasIndex': '723',
+    'id': 'n03944341',
+    'text': 'pinwheel'
+  },
+  {
+    'imageNetIndex': '565',
+    'kerasIndex': '739',
+    'id': 'n03992509',
+    'text': "potter's wheel"
+  },
+  {
+    'imageNetIndex': '566',
+    'kerasIndex': '571',
+    'id': 'n03425413',
+    'text': 'gas pump, gasoline pump, petrol pump, island dispenser'
+  },
+  {
+    'imageNetIndex': '567',
+    'kerasIndex': '476',
+    'id': 'n02966193',
+    'text': 'carousel, carrousel, merry-go-round, roundabout, whirligig'
+  },
+  {
+    'imageNetIndex': '568',
+    'kerasIndex': '843',
+    'id': 'n04371774',
+    'text': 'swing'
+  },
+  {
+    'imageNetIndex': '569',
+    'kerasIndex': '758',
+    'id': 'n04067472',
+    'text': 'reel'
+  },
+  {
+    'imageNetIndex': '570',
+    'kerasIndex': '753',
+    'id': 'n04040759',
+    'text': 'radiator'
+  },
+  {
+    'imageNetIndex': '571',
+    'kerasIndex': '746',
+    'id': 'n04019541',
+    'text': 'puck, hockey puck'
+  },
+  {
+    'imageNetIndex': '572',
+    'kerasIndex': '592',
+    'id': 'n03492542',
+    'text': 'hard disc, hard disk, fixed disk'
+  },
+  {
+    'imageNetIndex': '573',
+    'kerasIndex': '836',
+    'id': 'n04355933',
+    'text': 'sunglass'
+  },
+  {
+    'imageNetIndex': '574',
+    'kerasIndex': '714',
+    'id': 'n03929660',
+    'text': 'pick, plectrum, plectron'
+  },
+  {
+    'imageNetIndex': '575',
+    'kerasIndex': '475',
+    'id': 'n02965783',
+    'text': 'car mirror'
+  },
+  {
+    'imageNetIndex': '576',
+    'kerasIndex': '807',
+    'id': 'n04258138',
+    'text': 'solar dish, solar collector, solar furnace'
+  },
+  {
+    'imageNetIndex': '577',
+    'kerasIndex': '761',
+    'id': 'n04074963',
+    'text': 'remote control, remote'
+  },
+  {
+    'imageNetIndex': '578',
+    'kerasIndex': '535',
+    'id': 'n03208938',
+    'text': 'disk brake, disc brake'
+  },
+  {
+    'imageNetIndex': '579',
+    'kerasIndex': '464',
+    'id': 'n02910353',
+    'text': 'buckle'
+  },
+  {
+    'imageNetIndex': '580',
+    'kerasIndex': '584',
+    'id': 'n03476684',
+    'text': 'hair slide'
+  },
+  {
+    'imageNetIndex': '581',
+    'kerasIndex': '616',
+    'id': 'n03627232',
+    'text': 'knot'
+  },
+  {
+    'imageNetIndex': '582',
+    'kerasIndex': '507',
+    'id': 'n03075370',
+    'text': 'combination lock'
+  },
+  {
+    'imageNetIndex': '583',
+    'kerasIndex': '695',
+    'id': 'n03874599',
+    'text': 'padlock'
+  },
+  {
+    'imageNetIndex': '584',
+    'kerasIndex': '677',
+    'id': 'n03804744',
+    'text': 'nail'
+  },
+  {
+    'imageNetIndex': '585',
+    'kerasIndex': '772',
+    'id': 'n04127249',
+    'text': 'safety pin'
+  },
+  {
+    'imageNetIndex': '586',
+    'kerasIndex': '783',
+    'id': 'n04153751',
+    'text': 'screw'
+  },
+  {
+    'imageNetIndex': '587',
+    'kerasIndex': '676',
+    'id': 'n03803284',
+    'text': 'muzzle'
+  },
+  {
+    'imageNetIndex': '588',
+    'kerasIndex': '785',
+    'id': 'n04162706',
+    'text': 'seat belt, seatbelt'
+  },
+  {
+    'imageNetIndex': '589',
+    'kerasIndex': '795',
+    'id': 'n04228054',
+    'text': 'ski'
+  },
+  {
+    'imageNetIndex': '590',
+    'kerasIndex': '470',
+    'id': 'n02948072',
+    'text': 'candle, taper, wax light'
+  },
+  {
+    'imageNetIndex': '591',
+    'kerasIndex': '607',
+    'id': 'n03590841',
+    'text': "jack-o'-lantern"
+  },
+  {
+    'imageNetIndex': '592',
+    'kerasIndex': '818',
+    'id': 'n04286575',
+    'text': 'spotlight, spot'
+  },
+  {
+    'imageNetIndex': '593',
+    'kerasIndex': '862',
+    'id': 'n04456115',
+    'text': 'torch'
+  },
+  {
+    'imageNetIndex': '594',
+    'kerasIndex': '678',
+    'id': 'n03814639',
+    'text': 'neck brace'
+  },
+  {
+    'imageNetIndex': '595',
+    'kerasIndex': '718',
+    'id': 'n03933933',
+    'text': 'pier'
+  },
+  {
+    'imageNetIndex': '596',
+    'kerasIndex': '872',
+    'id': 'n04485082',
+    'text': 'tripod'
+  },
+  {
+    'imageNetIndex': '597',
+    'kerasIndex': '645',
+    'id': 'n03733131',
+    'text': 'maypole'
+  },
+  {
+    'imageNetIndex': '598',
+    'kerasIndex': '674',
+    'id': 'n03794056',
+    'text': 'mousetrap'
+  },
+  {
+    'imageNetIndex': '599',
+    'kerasIndex': '815',
+    'id': 'n04275548',
+    'text': "spider web, spider's web"
+  },
+  {
+    'imageNetIndex': '600',
+    'kerasIndex': '69',
+    'id': 'n01768244',
+    'text': 'trilobite'
+  },
+  {
+    'imageNetIndex': '601',
+    'kerasIndex': '70',
+    'id': 'n01770081',
+    'text': 'harvestman, daddy longlegs, Phalangium opilio'
+  },
+  {
+    'imageNetIndex': '602',
+    'kerasIndex': '71',
+    'id': 'n01770393',
+    'text': 'scorpion'
+  },
+  {
+    'imageNetIndex': '603',
+    'kerasIndex': '72',
+    'id': 'n01773157',
+    'text': 'black and gold garden spider, Argiope aurantia'
+  },
+  {
+    'imageNetIndex': '604',
+    'kerasIndex': '73',
+    'id': 'n01773549',
+    'text': 'barn spider, Araneus cavaticus'
+  },
+  {
+    'imageNetIndex': '605',
+    'kerasIndex': '74',
+    'id': 'n01773797',
+    'text': 'garden spider, Aranea diademata'
+  },
+  {
+    'imageNetIndex': '606',
+    'kerasIndex': '75',
+    'id': 'n01774384',
+    'text': 'black widow, Latrodectus mactans'
+  },
+  {
+    'imageNetIndex': '607',
+    'kerasIndex': '76',
+    'id': 'n01774750',
+    'text': 'tarantula'
+  },
+  {
+    'imageNetIndex': '608',
+    'kerasIndex': '77',
+    'id': 'n01775062',
+    'text': 'wolf spider, hunting spider'
+  },
+  {
+    'imageNetIndex': '609',
+    'kerasIndex': '78',
+    'id': 'n01776313',
+    'text': 'tick'
+  },
+  {
+    'imageNetIndex': '610',
+    'kerasIndex': '79',
+    'id': 'n01784675',
+    'text': 'centipede'
+  },
+  {
+    'imageNetIndex': '611',
+    'kerasIndex': '126',
+    'id': 'n01990800',
+    'text': 'isopod'
+  },
+  {
+    'imageNetIndex': '612',
+    'kerasIndex': '118',
+    'id': 'n01978287',
+    'text': 'Dungeness crab, Cancer magister'
+  },
+  {
+    'imageNetIndex': '613',
+    'kerasIndex': '119',
+    'id': 'n01978455',
+    'text': 'rock crab, Cancer irroratus'
+  },
+  {
+    'imageNetIndex': '614',
+    'kerasIndex': '120',
+    'id': 'n01980166',
+    'text': 'fiddler crab'
+  },
+  {
+    'imageNetIndex': '615',
+    'kerasIndex': '121',
+    'id': 'n01981276',
+    'text': 'king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica'
+  },
+  {
+    'imageNetIndex': '616',
+    'kerasIndex': '122',
+    'id': 'n01983481',
+    'text': 'American lobster, Northern lobster, Maine lobster, Homarus americanus'
+  },
+  {
+    'imageNetIndex': '617',
+    'kerasIndex': '123',
+    'id': 'n01984695',
+    'text': 'spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish'
+  },
+  {
+    'imageNetIndex': '618',
+    'kerasIndex': '124',
+    'id': 'n01985128',
+    'text': 'crayfish, crawfish, crawdad, crawdaddy'
+  },
+  {
+    'imageNetIndex': '619',
+    'kerasIndex': '125',
+    'id': 'n01986214',
+    'text': 'hermit crab'
+  },
+  {
+    'imageNetIndex': '620',
+    'kerasIndex': '300',
+    'id': 'n02165105',
+    'text': 'tiger beetle'
+  },
+  {
+    'imageNetIndex': '621',
+    'kerasIndex': '301',
+    'id': 'n02165456',
+    'text': 'ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle'
+  },
+  {
+    'imageNetIndex': '622',
+    'kerasIndex': '302',
+    'id': 'n02167151',
+    'text': 'ground beetle, carabid beetle'
+  },
+  {
+    'imageNetIndex': '623',
+    'kerasIndex': '303',
+    'id': 'n02168699',
+    'text': 'long-horned beetle, longicorn, longicorn beetle'
+  },
+  {
+    'imageNetIndex': '624',
+    'kerasIndex': '304',
+    'id': 'n02169497',
+    'text': 'leaf beetle, chrysomelid'
+  },
+  {
+    'imageNetIndex': '625',
+    'kerasIndex': '305',
+    'id': 'n02172182',
+    'text': 'dung beetle'
+  },
+  {
+    'imageNetIndex': '626',
+    'kerasIndex': '306',
+    'id': 'n02174001',
+    'text': 'rhinoceros beetle'
+  },
+  {
+    'imageNetIndex': '627',
+    'kerasIndex': '307',
+    'id': 'n02177972',
+    'text': 'weevil'
+  },
+  {
+    'imageNetIndex': '628',
+    'kerasIndex': '308',
+    'id': 'n02190166',
+    'text': 'fly'
+  },
+  {
+    'imageNetIndex': '629',
+    'kerasIndex': '309',
+    'id': 'n02206856',
+    'text': 'bee'
+  },
+  {
+    'imageNetIndex': '630',
+    'kerasIndex': '311',
+    'id': 'n02226429',
+    'text': 'grasshopper, hopper'
+  },
+  {
+    'imageNetIndex': '631',
+    'kerasIndex': '312',
+    'id': 'n02229544',
+    'text': 'cricket'
+  },
+  {
+    'imageNetIndex': '632',
+    'kerasIndex': '313',
+    'id': 'n02231487',
+    'text': 'walking stick, walkingstick, stick insect'
+  },
+  {
+    'imageNetIndex': '633',
+    'kerasIndex': '314',
+    'id': 'n02233338',
+    'text': 'cockroach, roach'
+  },
+  {
+    'imageNetIndex': '634',
+    'kerasIndex': '315',
+    'id': 'n02236044',
+    'text': 'mantis, mantid'
+  },
+  {
+    'imageNetIndex': '635',
+    'kerasIndex': '316',
+    'id': 'n02256656',
+    'text': 'cicada, cicala'
+  },
+  {
+    'imageNetIndex': '636',
+    'kerasIndex': '317',
+    'id': 'n02259212',
+    'text': 'leafhopper'
+  },
+  {
+    'imageNetIndex': '637',
+    'kerasIndex': '318',
+    'id': 'n02264363',
+    'text': 'lacewing, lacewing fly'
+  },
+  {
+    'imageNetIndex': '638',
+    'kerasIndex': '319',
+    'id': 'n02268443',
+    'text': "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+  },
+  {
+    'imageNetIndex': '639',
+    'kerasIndex': '320',
+    'id': 'n02268853',
+    'text': 'damselfly'
+  },
+  {
+    'imageNetIndex': '640',
+    'kerasIndex': '321',
+    'id': 'n02276258',
+    'text': 'admiral'
+  },
+  {
+    'imageNetIndex': '641',
+    'kerasIndex': '322',
+    'id': 'n02277742',
+    'text': 'ringlet, ringlet butterfly'
+  },
+  {
+    'imageNetIndex': '642',
+    'kerasIndex': '323',
+    'id': 'n02279972',
+    'text': 'monarch, monarch butterfly, milkweed butterfly, Danaus plexippus'
+  },
+  {
+    'imageNetIndex': '643',
+    'kerasIndex': '324',
+    'id': 'n02280649',
+    'text': 'cabbage butterfly'
+  },
+  {
+    'imageNetIndex': '644',
+    'kerasIndex': '325',
+    'id': 'n02281406',
+    'text': 'sulphur butterfly, sulfur butterfly'
+  },
+  {
+    'imageNetIndex': '645',
+    'kerasIndex': '326',
+    'id': 'n02281787',
+    'text': 'lycaenid, lycaenid butterfly'
+  },
+  {
+    'imageNetIndex': '646',
+    'kerasIndex': '107',
+    'id': 'n01910747',
+    'text': 'jellyfish'
+  },
+  {
+    'imageNetIndex': '647',
+    'kerasIndex': '108',
+    'id': 'n01914609',
+    'text': 'sea anemone, anemone'
+  },
+  {
+    'imageNetIndex': '648',
+    'kerasIndex': '109',
+    'id': 'n01917289',
+    'text': 'brain coral'
+  },
+  {
+    'imageNetIndex': '649',
+    'kerasIndex': '110',
+    'id': 'n01924916',
+    'text': 'flatworm, platyhelminth'
+  },
+  {
+    'imageNetIndex': '650',
+    'kerasIndex': '111',
+    'id': 'n01930112',
+    'text': 'nematode, nematode worm, roundworm'
+  },
+  {
+    'imageNetIndex': '651',
+    'kerasIndex': '112',
+    'id': 'n01943899',
+    'text': 'conch'
+  },
+  {
+    'imageNetIndex': '652',
+    'kerasIndex': '113',
+    'id': 'n01944390',
+    'text': 'snail'
+  },
+  {
+    'imageNetIndex': '653',
+    'kerasIndex': '114',
+    'id': 'n01945685',
+    'text': 'slug'
+  },
+  {
+    'imageNetIndex': '654',
+    'kerasIndex': '115',
+    'id': 'n01950731',
+    'text': 'sea slug, nudibranch'
+  },
+  {
+    'imageNetIndex': '655',
+    'kerasIndex': '116',
+    'id': 'n01955084',
+    'text': 'chiton, coat-of-mail shell, sea cradle, polyplacophore'
+  },
+  {
+    'imageNetIndex': '656',
+    'kerasIndex': '328',
+    'id': 'n02319095',
+    'text': 'sea urchin'
+  },
+  {
+    'imageNetIndex': '657',
+    'kerasIndex': '329',
+    'id': 'n02321529',
+    'text': 'sea cucumber, holothurian'
+  },
+  {
+    'imageNetIndex': '658',
+    'kerasIndex': '606',
+    'id': 'n03584829',
+    'text': 'iron, smoothing iron'
+  },
+  {
+    'imageNetIndex': '659',
+    'kerasIndex': '550',
+    'id': 'n03297495',
+    'text': 'espresso maker'
+  },
+  {
+    'imageNetIndex': '660',
+    'kerasIndex': '651',
+    'id': 'n03761084',
+    'text': 'microwave, microwave oven'
+  },
+  {
+    'imageNetIndex': '661',
+    'kerasIndex': '544',
+    'id': 'n03259280',
+    'text': 'Dutch oven'
+  },
+  {
+    'imageNetIndex': '662',
+    'kerasIndex': '766',
+    'id': 'n04111531',
+    'text': 'rotisserie'
+  },
+  {
+    'imageNetIndex': '663',
+    'kerasIndex': '859',
+    'id': 'n04442312',
+    'text': 'toaster'
+  },
+  {
+    'imageNetIndex': '664',
+    'kerasIndex': '891',
+    'id': 'n04542943',
+    'text': 'waffle iron'
+  },
+  {
+    'imageNetIndex': '665',
+    'kerasIndex': '882',
+    'id': 'n04517823',
+    'text': 'vacuum, vacuum cleaner'
+  },
+  {
+    'imageNetIndex': '666',
+    'kerasIndex': '534',
+    'id': 'n03207941',
+    'text': 'dishwasher, dish washer, dishwashing machine'
+  },
+  {
+    'imageNetIndex': '667',
+    'kerasIndex': '760',
+    'id': 'n04070727',
+    'text': 'refrigerator, icebox'
+  },
+  {
+    'imageNetIndex': '668',
+    'kerasIndex': '897',
+    'id': 'n04554684',
+    'text': 'washer, automatic washer, washing machine'
+  },
+  {
+    'imageNetIndex': '669',
+    'kerasIndex': '521',
+    'id': 'n03133878',
+    'text': 'Crock Pot'
+  },
+  {
+    'imageNetIndex': '670',
+    'kerasIndex': '567',
+    'id': 'n03400231',
+    'text': 'frying pan, frypan, skillet'
+  },
+  {
+    'imageNetIndex': '671',
+    'kerasIndex': '909',
+    'id': 'n04596742',
+    'text': 'wok'
+  },
+  {
+    'imageNetIndex': '672',
+    'kerasIndex': '469',
+    'id': 'n02939185',
+    'text': 'caldron, cauldron'
+  },
+  {
+    'imageNetIndex': '673',
+    'kerasIndex': '505',
+    'id': 'n03063689',
+    'text': 'coffeepot'
+  },
+  {
+    'imageNetIndex': '674',
+    'kerasIndex': '849',
+    'id': 'n04398044',
+    'text': 'teapot'
+  },
+  {
+    'imageNetIndex': '675',
+    'kerasIndex': '813',
+    'id': 'n04270147',
+    'text': 'spatula'
+  },
+  {
+    'imageNetIndex': '676',
+    'kerasIndex': '406',
+    'id': 'n02699494',
+    'text': 'altar'
+  },
+  {
+    'imageNetIndex': '677',
+    'kerasIndex': '873',
+    'id': 'n04486054',
+    'text': 'triumphal arch'
+  },
+  {
+    'imageNetIndex': '678',
+    'kerasIndex': '706',
+    'id': 'n03899768',
+    'text': 'patio, terrace'
+  },
+  {
+    'imageNetIndex': '679',
+    'kerasIndex': '821',
+    'id': 'n04311004',
+    'text': 'steel arch bridge'
+  },
+  {
+    'imageNetIndex': '680',
+    'kerasIndex': '839',
+    'id': 'n04366367',
+    'text': 'suspension bridge'
+  },
+  {
+    'imageNetIndex': '681',
+    'kerasIndex': '888',
+    'id': 'n04532670',
+    'text': 'viaduct'
+  },
+  {
+    'imageNetIndex': '682',
+    'kerasIndex': '425',
+    'id': 'n02793495',
+    'text': 'barn'
+  },
+  {
+    'imageNetIndex': '683',
+    'kerasIndex': '580',
+    'id': 'n03457902',
+    'text': 'greenhouse, nursery, glasshouse'
+  },
+  {
+    'imageNetIndex': '684',
+    'kerasIndex': '698',
+    'id': 'n03877845',
+    'text': 'palace'
+  },
+  {
+    'imageNetIndex': '685',
+    'kerasIndex': '663',
+    'id': 'n03781244',
+    'text': 'monastery'
+  },
+  {
+    'imageNetIndex': '686',
+    'kerasIndex': '624',
+    'id': 'n03661043',
+    'text': 'library'
+  },
+  {
+    'imageNetIndex': '687',
+    'kerasIndex': '410',
+    'id': 'n02727426',
+    'text': 'apiary, bee house'
+  },
+  {
+    'imageNetIndex': '688',
+    'kerasIndex': '449',
+    'id': 'n02859443',
+    'text': 'boathouse'
+  },
+  {
+    'imageNetIndex': '689',
+    'kerasIndex': '497',
+    'id': 'n03028079',
+    'text': 'church, church building'
+  },
+  {
+    'imageNetIndex': '690',
+    'kerasIndex': '668',
+    'id': 'n03788195',
+    'text': 'mosque'
+  },
+  {
+    'imageNetIndex': '691',
+    'kerasIndex': '832',
+    'id': 'n04346328',
+    'text': 'stupa, tope'
+  },
+  {
+    'imageNetIndex': '692',
+    'kerasIndex': '727',
+    'id': 'n03956157',
+    'text': 'planetarium'
+  },
+  {
+    'imageNetIndex': '693',
+    'kerasIndex': '762',
+    'id': 'n04081281',
+    'text': 'restaurant, eating house, eating place, eatery'
+  },
+  {
+    'imageNetIndex': '694',
+    'kerasIndex': '498',
+    'id': 'n03032252',
+    'text': 'cinema, movie theater, movie theatre, movie house, picture palace'
+  },
+  {
+    'imageNetIndex': '695',
+    'kerasIndex': '598',
+    'id': 'n03529860',
+    'text': 'home theater, home theatre'
+  },
+  {
+    'imageNetIndex': '696',
+    'kerasIndex': '634',
+    'id': 'n03697007',
+    'text': 'lumbermill, sawmill'
+  },
+  {
+    'imageNetIndex': '697',
+    'kerasIndex': '506',
+    'id': 'n03065424',
+    'text': 'coil, spiral, volute, whorl, helix'
+  },
+  {
+    'imageNetIndex': '698',
+    'kerasIndex': '682',
+    'id': 'n03837869',
+    'text': 'obelisk'
+  },
+  {
+    'imageNetIndex': '699',
+    'kerasIndex': '863',
+    'id': 'n04458633',
+    'text': 'totem pole'
+  },
+  {
+    'imageNetIndex': '700',
+    'kerasIndex': '483',
+    'id': 'n02980441',
+    'text': 'castle'
+  },
+  {
+    'imageNetIndex': '701',
+    'kerasIndex': '743',
+    'id': 'n04005630',
+    'text': 'prison, prison house'
+  },
+  {
+    'imageNetIndex': '702',
+    'kerasIndex': '582',
+    'id': 'n03461385',
+    'text': 'grocery store, grocery, food market, market'
+  },
+  {
+    'imageNetIndex': '703',
+    'kerasIndex': '415',
+    'id': 'n02776631',
+    'text': 'bakery, bakeshop, bakehouse'
+  },
+  {
+    'imageNetIndex': '704',
+    'kerasIndex': '424',
+    'id': 'n02791270',
+    'text': 'barbershop'
+  },
+  {
+    'imageNetIndex': '705',
+    'kerasIndex': '454',
+    'id': 'n02871525',
+    'text': 'bookshop, bookstore, bookstall'
+  },
+  {
+    'imageNetIndex': '706',
+    'kerasIndex': '467',
+    'id': 'n02927161',
+    'text': 'butcher shop, meat market'
+  },
+  {
+    'imageNetIndex': '707',
+    'kerasIndex': '509',
+    'id': 'n03089624',
+    'text': 'confectionery, confectionary, candy store'
+  },
+  {
+    'imageNetIndex': '708',
+    'kerasIndex': '788',
+    'id': 'n04200800',
+    'text': 'shoe shop, shoe-shop, shoe store'
+  },
+  {
+    'imageNetIndex': '709',
+    'kerasIndex': '860',
+    'id': 'n04443257',
+    'text': 'tobacco shop, tobacconist shop, tobacconist'
+  },
+  {
+    'imageNetIndex': '710',
+    'kerasIndex': '865',
+    'id': 'n04462240',
+    'text': 'toyshop'
+  },
+  {
+    'imageNetIndex': '711',
+    'kerasIndex': '562',
+    'id': 'n03388043',
+    'text': 'fountain'
+  },
+  {
+    'imageNetIndex': '712',
+    'kerasIndex': '500',
+    'id': 'n03042490',
+    'text': 'cliff dwelling'
+  },
+  {
+    'imageNetIndex': '713',
+    'kerasIndex': '915',
+    'id': 'n04613696',
+    'text': 'yurt'
+  },
+  {
+    'imageNetIndex': '714',
+    'kerasIndex': '536',
+    'id': 'n03216828',
+    'text': 'dock, dockage, docking facility'
+  },
+  {
+    'imageNetIndex': '715',
+    'kerasIndex': '458',
+    'id': 'n02892201',
+    'text': 'brass, memorial tablet, plaque'
+  },
+  {
+    'imageNetIndex': '716',
+    'kerasIndex': '649',
+    'id': 'n03743016',
+    'text': 'megalith, megalithic structure'
+  },
+  {
+    'imageNetIndex': '717',
+    'kerasIndex': '421',
+    'id': 'n02788148',
+    'text': 'bannister, banister, balustrade, balusters, handrail'
+  },
+  {
+    'imageNetIndex': '718',
+    'kerasIndex': '460',
+    'id': 'n02894605',
+    'text': 'breakwater, groin, groyne, mole, bulwark, seawall, jetty'
+  },
+  {
+    'imageNetIndex': '719',
+    'kerasIndex': '525',
+    'id': 'n03160309',
+    'text': 'dam, dike, dyke'
+  },
+  {
+    'imageNetIndex': '720',
+    'kerasIndex': '489',
+    'id': 'n03000134',
+    'text': 'chainlink fence'
+  },
+  {
+    'imageNetIndex': '721',
+    'kerasIndex': '716',
+    'id': 'n03930313',
+    'text': 'picket fence, paling'
+  },
+  {
+    'imageNetIndex': '722',
+    'kerasIndex': '912',
+    'id': 'n04604644',
+    'text': 'worm fence, snake fence, snake-rail fence, Virginia fence'
+  },
+  {
+    'imageNetIndex': '723',
+    'kerasIndex': '825',
+    'id': 'n04326547',
+    'text': 'stone wall'
+  },
+  {
+    'imageNetIndex': '724',
+    'kerasIndex': '581',
+    'id': 'n03459775',
+    'text': 'grille, radiator grille'
+  },
+  {
+    'imageNetIndex': '725',
+    'kerasIndex': '799',
+    'id': 'n04239074',
+    'text': 'sliding door'
+  },
+  {
+    'imageNetIndex': '726',
+    'kerasIndex': '877',
+    'id': 'n04501370',
+    'text': 'turnstile'
+  },
+  {
+    'imageNetIndex': '727',
+    'kerasIndex': '672',
+    'id': 'n03792972',
+    'text': 'mountain tent'
+  },
+  {
+    'imageNetIndex': '728',
+    'kerasIndex': '781',
+    'id': 'n04149813',
+    'text': 'scoreboard'
+  },
+  {
+    'imageNetIndex': '729',
+    'kerasIndex': '599',
+    'id': 'n03530642',
+    'text': 'honeycomb'
+  },
+  {
+    'imageNetIndex': '730',
+    'kerasIndex': '729',
+    'id': 'n03961711',
+    'text': 'plate rack'
+  },
+  {
+    'imageNetIndex': '731',
+    'kerasIndex': '708',
+    'id': 'n03903868',
+    'text': 'pedestal, plinth, footstall'
+  },
+  {
+    'imageNetIndex': '732',
+    'kerasIndex': '437',
+    'id': 'n02814860',
+    'text': 'beacon, lighthouse, beacon light, pharos'
+  },
+  {
+    'imageNetIndex': '733',
+    'kerasIndex': '935',
+    'id': 'n07711569',
+    'text': 'mashed potato'
+  },
+  {
+    'imageNetIndex': '734',
+    'kerasIndex': '945',
+    'id': 'n07720875',
+    'text': 'bell pepper'
+  },
+  {
+    'imageNetIndex': '735',
+    'kerasIndex': '936',
+    'id': 'n07714571',
+    'text': 'head cabbage'
+  },
+  {
+    'imageNetIndex': '736',
+    'kerasIndex': '937',
+    'id': 'n07714990',
+    'text': 'broccoli'
+  },
+  {
+    'imageNetIndex': '737',
+    'kerasIndex': '938',
+    'id': 'n07715103',
+    'text': 'cauliflower'
+  },
+  {
+    'imageNetIndex': '738',
+    'kerasIndex': '939',
+    'id': 'n07716358',
+    'text': 'zucchini, courgette'
+  },
+  {
+    'imageNetIndex': '739',
+    'kerasIndex': '940',
+    'id': 'n07716906',
+    'text': 'spaghetti squash'
+  },
+  {
+    'imageNetIndex': '740',
+    'kerasIndex': '941',
+    'id': 'n07717410',
+    'text': 'acorn squash'
+  },
+  {
+    'imageNetIndex': '741',
+    'kerasIndex': '942',
+    'id': 'n07717556',
+    'text': 'butternut squash'
+  },
+  {
+    'imageNetIndex': '742',
+    'kerasIndex': '943',
+    'id': 'n07718472',
+    'text': 'cucumber, cuke'
+  },
+  {
+    'imageNetIndex': '743',
+    'kerasIndex': '944',
+    'id': 'n07718747',
+    'text': 'artichoke, globe artichoke'
+  },
+  {
+    'imageNetIndex': '744',
+    'kerasIndex': '946',
+    'id': 'n07730033',
+    'text': 'cardoon'
+  },
+  {
+    'imageNetIndex': '745',
+    'kerasIndex': '947',
+    'id': 'n07734744',
+    'text': 'mushroom'
+  },
+  {
+    'imageNetIndex': '746',
+    'kerasIndex': '794',
+    'id': 'n04209239',
+    'text': 'shower curtain'
+  },
+  {
+    'imageNetIndex': '747',
+    'kerasIndex': '608',
+    'id': 'n03594734',
+    'text': 'jean, blue jean, denim'
+  },
+  {
+    'imageNetIndex': '748',
+    'kerasIndex': '478',
+    'id': 'n02971356',
+    'text': 'carton'
+  },
+  {
+    'imageNetIndex': '749',
+    'kerasIndex': '591',
+    'id': 'n03485794',
+    'text': 'handkerchief, hankie, hanky, hankey'
+  },
+  {
+    'imageNetIndex': '750',
+    'kerasIndex': '774',
+    'id': 'n04133789',
+    'text': 'sandal'
+  },
+  {
+    'imageNetIndex': '751',
+    'kerasIndex': '412',
+    'id': 'n02747177',
+    'text': 'ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin'
+  },
+  {
+    'imageNetIndex': '752',
+    'kerasIndex': '771',
+    'id': 'n04125021',
+    'text': 'safe'
+  },
+  {
+    'imageNetIndex': '753',
+    'kerasIndex': '923',
+    'id': 'n07579787',
+    'text': 'plate'
+  },
+  {
+    'imageNetIndex': '754',
+    'kerasIndex': '679',
+    'id': 'n03814906',
+    'text': 'necklace'
+  },
+  {
+    'imageNetIndex': '755',
+    'kerasIndex': '522',
+    'id': 'n03134739',
+    'text': 'croquet ball'
+  },
+  {
+    'imageNetIndex': '756',
+    'kerasIndex': '568',
+    'id': 'n03404251',
+    'text': 'fur coat'
+  },
+  {
+    'imageNetIndex': '757',
+    'kerasIndex': '855',
+    'id': 'n04423845',
+    'text': 'thimble'
+  },
+  {
+    'imageNetIndex': '758',
+    'kerasIndex': '697',
+    'id': 'n03877472',
+    'text': "pajama, pyjama, pj's, jammies"
+  },
+  {
+    'imageNetIndex': '759',
+    'kerasIndex': '770',
+    'id': 'n04120489',
+    'text': 'running shoe'
+  },
+  {
+    'imageNetIndex': '760',
+    'kerasIndex': '503',
+    'id': 'n03062245',
+    'text': 'cocktail shaker'
+  },
+  {
+    'imageNetIndex': '761',
+    'kerasIndex': '492',
+    'id': 'n03014705',
+    'text': 'chest'
+  },
+  {
+    'imageNetIndex': '762',
+    'kerasIndex': '640',
+    'id': 'n03717622',
+    'text': 'manhole cover'
+  },
+  {
+    'imageNetIndex': '763',
+    'kerasIndex': '662',
+    'id': 'n03777754',
+    'text': 'modem'
+  },
+  {
+    'imageNetIndex': '764',
+    'kerasIndex': '876',
+    'id': 'n04493381',
+    'text': 'tub, vat'
+  },
+  {
+    'imageNetIndex': '765',
+    'kerasIndex': '868',
+    'id': 'n04476259',
+    'text': 'tray'
+  },
+  {
+    'imageNetIndex': '766',
+    'kerasIndex': '416',
+    'id': 'n02777292',
+    'text': 'balance beam, beam'
+  },
+  {
+    'imageNetIndex': '767',
+    'kerasIndex': '931',
+    'id': 'n07693725',
+    'text': 'bagel, beigel'
+  },
+  {
+    'imageNetIndex': '768',
+    'kerasIndex': '741',
+    'id': 'n03998194',
+    'text': 'prayer rug, prayer mat'
+  },
+  {
+    'imageNetIndex': '769',
+    'kerasIndex': '614',
+    'id': 'n03617480',
+    'text': 'kimono'
+  },
+  {
+    'imageNetIndex': '770',
+    'kerasIndex': '926',
+    'id': 'n07590611',
+    'text': 'hot pot, hotpot'
+  },
+  {
+    'imageNetIndex': '771',
+    'kerasIndex': '901',
+    'id': 'n04579145',
+    'text': 'whiskey jug'
+  },
+  {
+    'imageNetIndex': '772',
+    'kerasIndex': '615',
+    'id': 'n03623198',
+    'text': 'knee pad'
+  },
+  {
+    'imageNetIndex': '773',
+    'kerasIndex': '921',
+    'id': 'n07248320',
+    'text': 'book jacket, dust cover, dust jacket, dust wrapper'
+  },
+  {
+    'imageNetIndex': '774',
+    'kerasIndex': '816',
+    'id': 'n04277352',
+    'text': 'spindle'
+  },
+  {
+    'imageNetIndex': '775',
+    'kerasIndex': '796',
+    'id': 'n04229816',
+    'text': 'ski mask'
+  },
+  {
+    'imageNetIndex': '776',
+    'kerasIndex': '440',
+    'id': 'n02823428',
+    'text': 'beer bottle'
+  },
+  {
+    'imageNetIndex': '777',
+    'kerasIndex': '518',
+    'id': 'n03127747',
+    'text': 'crash helmet'
+  },
+  {
+    'imageNetIndex': '778',
+    'kerasIndex': '455',
+    'id': 'n02877765',
+    'text': 'bottlecap'
+  },
+  {
+    'imageNetIndex': '779',
+    'kerasIndex': '858',
+    'id': 'n04435653',
+    'text': 'tile roof'
+  },
+  {
+    'imageNetIndex': '780',
+    'kerasIndex': '643',
+    'id': 'n03724870',
+    'text': 'mask'
+  },
+  {
+    'imageNetIndex': '781',
+    'kerasIndex': '638',
+    'id': 'n03710637',
+    'text': 'maillot'
+  },
+  {
+    'imageNetIndex': '782',
+    'kerasIndex': '712',
+    'id': 'n03920288',
+    'text': 'Petri dish'
+  },
+  {
+    'imageNetIndex': '783',
+    'kerasIndex': '560',
+    'id': 'n03379051',
+    'text': 'football helmet'
+  },
+  {
+    'imageNetIndex': '784',
+    'kerasIndex': '433',
+    'id': 'n02807133',
+    'text': 'bathing cap, swimming cap'
+  },
+  {
+    'imageNetIndex': '785',
+    'kerasIndex': '850',
+    'id': 'n04399382',
+    'text': 'teddy, teddy bear'
+  },
+  {
+    'imageNetIndex': '786',
+    'kerasIndex': '597',
+    'id': 'n03527444',
+    'text': 'holster'
+  },
+  {
+    'imageNetIndex': '787',
+    'kerasIndex': '737',
+    'id': 'n03983396',
+    'text': 'pop bottle, soda bottle'
+  },
+  {
+    'imageNetIndex': '788',
+    'kerasIndex': '713',
+    'id': 'n03924679',
+    'text': 'photocopier'
+  },
+  {
+    'imageNetIndex': '789',
+    'kerasIndex': '887',
+    'id': 'n04532106',
+    'text': 'vestment'
+  },
+  {
+    'imageNetIndex': '790',
+    'kerasIndex': '918',
+    'id': 'n06785654',
+    'text': 'crossword puzzle, crossword'
+  },
+  {
+    'imageNetIndex': '791',
+    'kerasIndex': '574',
+    'id': 'n03445777',
+    'text': 'golf ball'
+  },
+  {
+    'imageNetIndex': '792',
+    'kerasIndex': '927',
+    'id': 'n07613480',
+    'text': 'trifle'
+  },
+  {
+    'imageNetIndex': '793',
+    'kerasIndex': '834',
+    'id': 'n04350905',
+    'text': 'suit, suit of clothes'
+  },
+  {
+    'imageNetIndex': '794',
+    'kerasIndex': '900',
+    'id': 'n04562935',
+    'text': 'water tower'
+  },
+  {
+    'imageNetIndex': '795',
+    'kerasIndex': '552',
+    'id': 'n03325584',
+    'text': 'feather boa, boa'
+  },
+  {
+    'imageNetIndex': '796',
+    'kerasIndex': '501',
+    'id': 'n03045698',
+    'text': 'cloak'
+  },
+  {
+    'imageNetIndex': '797',
+    'kerasIndex': '966',
+    'id': 'n07892512',
+    'text': 'red wine'
+  },
+  {
+    'imageNetIndex': '798',
+    'kerasIndex': '542',
+    'id': 'n03250847',
+    'text': 'drumstick'
+  },
+  {
+    'imageNetIndex': '799',
+    'kerasIndex': '787',
+    'id': 'n04192698',
+    'text': 'shield, buckler'
+  },
+  {
+    'imageNetIndex': '800',
+    'kerasIndex': '496',
+    'id': 'n03026506',
+    'text': 'Christmas stocking'
+  },
+  {
+    'imageNetIndex': '801',
+    'kerasIndex': '601',
+    'id': 'n03534580',
+    'text': 'hoopskirt, crinoline'
+  },
+  {
+    'imageNetIndex': '802',
+    'kerasIndex': '922',
+    'id': 'n07565083',
+    'text': 'menu'
+  },
+  {
+    'imageNetIndex': '803',
+    'kerasIndex': '819',
+    'id': 'n04296562',
+    'text': 'stage'
+  },
+  {
+    'imageNetIndex': '804',
+    'kerasIndex': '452',
+    'id': 'n02869837',
+    'text': 'bonnet, poke bonnet'
+  },
+  {
+    'imageNetIndex': '805',
+    'kerasIndex': '962',
+    'id': 'n07871810',
+    'text': 'meat loaf, meatloaf'
+  },
+  {
+    'imageNetIndex': '806',
+    'kerasIndex': '429',
+    'id': 'n02799071',
+    'text': 'baseball'
+  },
+  {
+    'imageNetIndex': '807',
+    'kerasIndex': '551',
+    'id': 'n03314780',
+    'text': 'face powder'
+  },
+  {
+    'imageNetIndex': '808',
+    'kerasIndex': '777',
+    'id': 'n04141327',
+    'text': 'scabbard'
+  },
+  {
+    'imageNetIndex': '809',
+    'kerasIndex': '838',
+    'id': 'n04357314',
+    'text': 'sunscreen, sunblock, sun blocker'
+  },
+  {
+    'imageNetIndex': '810',
+    'kerasIndex': '441',
+    'id': 'n02823750',
+    'text': 'beer glass'
+  },
+  {
+    'imageNetIndex': '811',
+    'kerasIndex': '996',
+    'id': 'n13052670',
+    'text': 'hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa'
+  },
+  {
+    'imageNetIndex': '812',
+    'kerasIndex': '924',
+    'id': 'n07583066',
+    'text': 'guacamole'
+  },
+  {
+    'imageNetIndex': '813',
+    'kerasIndex': '619',
+    'id': 'n03637318',
+    'text': 'lampshade, lamp shade'
+  },
+  {
+    'imageNetIndex': '814',
+    'kerasIndex': '911',
+    'id': 'n04599235',
+    'text': 'wool, woolen, woollen'
+  },
+  {
+    'imageNetIndex': '815',
+    'kerasIndex': '958',
+    'id': 'n07802026',
+    'text': 'hay'
+  },
+  {
+    'imageNetIndex': '816',
+    'kerasIndex': '457',
+    'id': 'n02883205',
+    'text': 'bow tie, bow-tie, bowtie'
+  },
+  {
+    'imageNetIndex': '817',
+    'kerasIndex': '636',
+    'id': 'n03709823',
+    'text': 'mailbag, postbag'
+  },
+  {
+    'imageNetIndex': '818',
+    'kerasIndex': '899',
+    'id': 'n04560804',
+    'text': 'water jug'
+  },
+  {
+    'imageNetIndex': '819',
+    'kerasIndex': '463',
+    'id': 'n02909870',
+    'text': 'bucket, pail'
+  },
+  {
+    'imageNetIndex': '820',
+    'kerasIndex': '533',
+    'id': 'n03207743',
+    'text': 'dishrag, dishcloth'
+  },
+  {
+    'imageNetIndex': '821',
+    'kerasIndex': '809',
+    'id': 'n04263257',
+    'text': 'soup bowl'
+  },
+  {
+    'imageNetIndex': '822',
+    'kerasIndex': '969',
+    'id': 'n07932039',
+    'text': 'eggnog'
+  },
+  {
+    'imageNetIndex': '823',
+    'kerasIndex': '666',
+    'id': 'n03786901',
+    'text': 'mortar'
+  },
+  {
+    'imageNetIndex': '824',
+    'kerasIndex': '869',
+    'id': 'n04479046',
+    'text': 'trench coat'
+  },
+  {
+    'imageNetIndex': '825',
+    'kerasIndex': '693',
+    'id': 'n03873416',
+    'text': 'paddle, boat paddle'
+  },
+  {
+    'imageNetIndex': '826',
+    'kerasIndex': '488',
+    'id': 'n02999410',
+    'text': 'chain'
+  },
+  {
+    'imageNetIndex': '827',
+    'kerasIndex': '840',
+    'id': 'n04367480',
+    'text': 'swab, swob, mop'
+  },
+  {
+    'imageNetIndex': '828',
+    'kerasIndex': '659',
+    'id': 'n03775546',
+    'text': 'mixing bowl'
+  },
+  {
+    'imageNetIndex': '829',
+    'kerasIndex': '964',
+    'id': 'n07875152',
+    'text': 'potpie'
+  },
+  {
+    'imageNetIndex': '830',
+    'kerasIndex': '907',
+    'id': 'n04591713',
+    'text': 'wine bottle'
+  },
+  {
+    'imageNetIndex': '831',
+    'kerasIndex': '789',
+    'id': 'n04201297',
+    'text': 'shoji'
+  },
+  {
+    'imageNetIndex': '832',
+    'kerasIndex': '465',
+    'id': 'n02916936',
+    'text': 'bulletproof vest'
+  },
+  {
+    'imageNetIndex': '833',
+    'kerasIndex': '540',
+    'id': 'n03240683',
+    'text': 'drilling platform, offshore rig'
+  },
+  {
+    'imageNetIndex': '834',
+    'kerasIndex': '446',
+    'id': 'n02840245',
+    'text': 'binder, ring-binder'
+  },
+  {
+    'imageNetIndex': '835',
+    'kerasIndex': '474',
+    'id': 'n02963159',
+    'text': 'cardigan'
+  },
+  {
+    'imageNetIndex': '836',
+    'kerasIndex': '841',
+    'id': 'n04370456',
+    'text': 'sweatshirt'
+  },
+  {
+    'imageNetIndex': '837',
+    'kerasIndex': '738',
+    'id': 'n03991062',
+    'text': 'pot, flowerpot'
+  },
+  {
+    'imageNetIndex': '838',
+    'kerasIndex': '448',
+    'id': 'n02843684',
+    'text': 'birdhouse'
+  },
+  {
+    'imageNetIndex': '839',
+    'kerasIndex': '588',
+    'id': 'n03482405',
+    'text': 'hamper'
+  },
+  {
+    'imageNetIndex': '840',
+    'kerasIndex': '722',
+    'id': 'n03942813',
+    'text': 'ping-pong ball'
+  },
+  {
+    'imageNetIndex': '841',
+    'kerasIndex': '709',
+    'id': 'n03908618',
+    'text': 'pencil box, pencil case'
+  },
+  {
+    'imageNetIndex': '842',
+    'kerasIndex': '707',
+    'id': 'n03902125',
+    'text': 'pay-phone, pay-station'
+  },
+  {
+    'imageNetIndex': '843',
+    'kerasIndex': '925',
+    'id': 'n07584110',
+    'text': 'consomme'
+  },
+  {
+    'imageNetIndex': '844',
+    'kerasIndex': '411',
+    'id': 'n02730930',
+    'text': 'apron'
+  },
+  {
+    'imageNetIndex': '845',
+    'kerasIndex': '747',
+    'id': 'n04023962',
+    'text': 'punching bag, punch bag, punching ball, punchball'
+  },
+  {
+    'imageNetIndex': '846',
+    'kerasIndex': '414',
+    'id': 'n02769748',
+    'text': 'backpack, back pack, knapsack, packsack, rucksack, haversack'
+  },
+  {
+    'imageNetIndex': '847',
+    'kerasIndex': '982',
+    'id': 'n10148035',
+    'text': 'groom, bridegroom'
+  },
+  {
+    'imageNetIndex': '848',
+    'kerasIndex': '439',
+    'id': 'n02817516',
+    'text': 'bearskin, busby, shako'
+  },
+  {
+    'imageNetIndex': '849',
+    'kerasIndex': '710',
+    'id': 'n03908714',
+    'text': 'pencil sharpener'
+  },
+  {
+    'imageNetIndex': '850',
+    'kerasIndex': '462',
+    'id': 'n02906734',
+    'text': 'broom'
+  },
+  {
+    'imageNetIndex': '851',
+    'kerasIndex': '669',
+    'id': 'n03788365',
+    'text': 'mosquito net'
+  },
+  {
+    'imageNetIndex': '852',
+    'kerasIndex': '399',
+    'id': 'n02667093',
+    'text': 'abaya'
+  },
+  {
+    'imageNetIndex': '853',
+    'kerasIndex': '667',
+    'id': 'n03787032',
+    'text': 'mortarboard'
+  },
+  {
+    'imageNetIndex': '854',
+    'kerasIndex': '735',
+    'id': 'n03980874',
+    'text': 'poncho'
+  },
+  {
+    'imageNetIndex': '855',
+    'kerasIndex': '523',
+    'id': 'n03141823',
+    'text': 'crutch'
+  },
+  {
+    'imageNetIndex': '856',
+    'kerasIndex': '732',
+    'id': 'n03976467',
+    'text': 'Polaroid camera, Polaroid Land camera'
+  },
+  {
+    'imageNetIndex': '857',
+    'kerasIndex': '810',
+    'id': 'n04264628',
+    'text': 'space bar'
+  },
+  {
+    'imageNetIndex': '858',
+    'kerasIndex': '968',
+    'id': 'n07930864',
+    'text': 'cup'
+  },
+  {
+    'imageNetIndex': '859',
+    'kerasIndex': '752',
+    'id': 'n04039381',
+    'text': 'racket, racquet'
+  },
+  {
+    'imageNetIndex': '860',
+    'kerasIndex': '920',
+    'id': 'n06874185',
+    'text': 'traffic light, traffic signal, stoplight'
+  },
+  {
+    'imageNetIndex': '861',
+    'kerasIndex': '749',
+    'id': 'n04033901',
+    'text': 'quill, quill pen'
+  },
+  {
+    'imageNetIndex': '862',
+    'kerasIndex': '754',
+    'id': 'n04041544',
+    'text': 'radio, wireless'
+  },
+  {
+    'imageNetIndex': '863',
+    'kerasIndex': '961',
+    'id': 'n07860988',
+    'text': 'dough'
+  },
+  {
+    'imageNetIndex': '864',
+    'kerasIndex': '524',
+    'id': 'n03146219',
+    'text': 'cuirass'
+  },
+  {
+    'imageNetIndex': '865',
+    'kerasIndex': '652',
+    'id': 'n03763968',
+    'text': 'military uniform'
+  },
+  {
+    'imageNetIndex': '866',
+    'kerasIndex': '629',
+    'id': 'n03676483',
+    'text': 'lipstick, lip rouge'
+  },
+  {
+    'imageNetIndex': '867',
+    'kerasIndex': '793',
+    'id': 'n04209133',
+    'text': 'shower cap'
+  },
+  {
+    'imageNetIndex': '868',
+    'kerasIndex': '664',
+    'id': 'n03782006',
+    'text': 'monitor'
+  },
+  {
+    'imageNetIndex': '869',
+    'kerasIndex': '688',
+    'id': 'n03857828',
+    'text': 'oscilloscope, scope, cathode-ray oscilloscope, CRO'
+  },
+  {
+    'imageNetIndex': '870',
+    'kerasIndex': '658',
+    'id': 'n03775071',
+    'text': 'mitten'
+  },
+  {
+    'imageNetIndex': '871',
+    'kerasIndex': '459',
+    'id': 'n02892767',
+    'text': 'brassiere, bra, bandeau'
+  },
+  {
+    'imageNetIndex': '872',
+    'kerasIndex': '930',
+    'id': 'n07684084',
+    'text': 'French loaf'
+  },
+  {
+    'imageNetIndex': '873',
+    'kerasIndex': '883',
+    'id': 'n04522168',
+    'text': 'vase'
+  },
+  {
+    'imageNetIndex': '874',
+    'kerasIndex': '653',
+    'id': 'n03764736',
+    'text': 'milk can'
+  },
+  {
+    'imageNetIndex': '875',
+    'kerasIndex': '768',
+    'id': 'n04118538',
+    'text': 'rugby ball'
+  },
+  {
+    'imageNetIndex': '876',
+    'kerasIndex': '700',
+    'id': 'n03887697',
+    'text': 'paper towel'
+  },
+  {
+    'imageNetIndex': '877',
+    'kerasIndex': '995',
+    'id': 'n13044778',
+    'text': 'earthstar'
+  },
+  {
+    'imageNetIndex': '878',
+    'kerasIndex': '549',
+    'id': 'n03291819',
+    'text': 'envelope'
+  },
+  {
+    'imageNetIndex': '879',
+    'kerasIndex': '655',
+    'id': 'n03770439',
+    'text': 'miniskirt, mini'
+  },
+  {
+    'imageNetIndex': '880',
+    'kerasIndex': '515',
+    'id': 'n03124170',
+    'text': 'cowboy hat, ten-gallon hat'
+  },
+  {
+    'imageNetIndex': '881',
+    'kerasIndex': '874',
+    'id': 'n04487081',
+    'text': 'trolleybus, trolley coach, trackless trolley'
+  },
+  {
+    'imageNetIndex': '882',
+    'kerasIndex': '711',
+    'id': 'n03916031',
+    'text': 'perfume, essence'
+  },
+  {
+    'imageNetIndex': '883',
+    'kerasIndex': '435',
+    'id': 'n02808440',
+    'text': 'bathtub, bathing tub, bath, tub'
+  },
+  {
+    'imageNetIndex': '884',
+    'kerasIndex': '934',
+    'id': 'n07697537',
+    'text': 'hotdog, hot dog, red hot'
+  },
+  {
+    'imageNetIndex': '885',
+    'kerasIndex': '991',
+    'id': 'n12985857',
+    'text': 'coral fungus'
+  },
+  {
+    'imageNetIndex': '886',
+    'kerasIndex': '466',
+    'id': 'n02917067',
+    'text': 'bullet train, bullet'
+  },
+  {
+    'imageNetIndex': '887',
+    'kerasIndex': '721',
+    'id': 'n03938244',
+    'text': 'pillow'
+  },
+  {
+    'imageNetIndex': '888',
+    'kerasIndex': '999',
+    'id': 'n15075141',
+    'text': 'toilet tissue, toilet paper, bathroom tissue'
+  },
+  {
+    'imageNetIndex': '889',
+    'kerasIndex': '481',
+    'id': 'n02978881',
+    'text': 'cassette'
+  },
+  {
+    'imageNetIndex': '890',
+    'kerasIndex': '477',
+    'id': 'n02966687',
+    'text': "carpenter's kit, tool kit"
+  },
+  {
+    'imageNetIndex': '891',
+    'kerasIndex': '618',
+    'id': 'n03633091',
+    'text': 'ladle'
+  },
+  {
+    'imageNetIndex': '892',
+    'kerasIndex': '994',
+    'id': 'n13040303',
+    'text': 'stinkhorn, carrion fungus'
+  },
+  {
+    'imageNetIndex': '893',
+    'kerasIndex': '631',
+    'id': 'n03690938',
+    'text': 'lotion'
+  },
+  {
+    'imageNetIndex': '894',
+    'kerasIndex': '585',
+    'id': 'n03476991',
+    'text': 'hair spray'
+  },
+  {
+    'imageNetIndex': '895',
+    'kerasIndex': '400',
+    'id': 'n02669723',
+    'text': "academic gown, academic robe, judge's robe"
+  },
+  {
+    'imageNetIndex': '896',
+    'kerasIndex': '538',
+    'id': 'n03220513',
+    'text': 'dome'
+  },
+  {
+    'imageNetIndex': '897',
+    'kerasIndex': '519',
+    'id': 'n03127925',
+    'text': 'crate'
+  },
+  {
+    'imageNetIndex': '898',
+    'kerasIndex': '903',
+    'id': 'n04584207',
+    'text': 'wig'
+  },
+  {
+    'imageNetIndex': '899',
+    'kerasIndex': '965',
+    'id': 'n07880968',
+    'text': 'burrito'
+  },
+  {
+    'imageNetIndex': '900',
+    'kerasIndex': '720',
+    'id': 'n03937543',
+    'text': 'pill bottle'
+  },
+  {
+    'imageNetIndex': '901',
+    'kerasIndex': '490',
+    'id': 'n03000247',
+    'text': 'chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour'
+  },
+  {
+    'imageNetIndex': '902',
+    'kerasIndex': '854',
+    'id': 'n04418357',
+    'text': 'theater curtain, theatre curtain'
+  },
+  {
+    'imageNetIndex': '903',
+    'kerasIndex': '905',
+    'id': 'n04590129',
+    'text': 'window shade'
+  },
+  {
+    'imageNetIndex': '904',
+    'kerasIndex': '427',
+    'id': 'n02795169',
+    'text': 'barrel, cask'
+  },
+  {
+    'imageNetIndex': '905',
+    'kerasIndex': '896',
+    'id': 'n04553703',
+    'text': 'washbasin, handbasin, washbowl, lavabo, wash-hand basin'
+  },
+  {
+    'imageNetIndex': '906',
+    'kerasIndex': '418',
+    'id': 'n02783161',
+    'text': 'ballpoint, ballpoint pen, ballpen, Biro'
+  },
+  {
+    'imageNetIndex': '907',
+    'kerasIndex': '430',
+    'id': 'n02802426',
+    'text': 'basketball'
+  },
+  {
+    'imageNetIndex': '908',
+    'kerasIndex': '434',
+    'id': 'n02808304',
+    'text': 'bath towel'
+  },
+  {
+    'imageNetIndex': '909',
+    'kerasIndex': '514',
+    'id': 'n03124043',
+    'text': 'cowboy boot'
+  },
+  {
+    'imageNetIndex': '910',
+    'kerasIndex': '578',
+    'id': 'n03450230',
+    'text': 'gown'
+  },
+  {
+    'imageNetIndex': '911',
+    'kerasIndex': '904',
+    'id': 'n04589890',
+    'text': 'window screen'
+  },
+  {
+    'imageNetIndex': '912',
+    'kerasIndex': '992',
+    'id': 'n12998815',
+    'text': 'agaric'
+  },
+  {
+    'imageNetIndex': '913',
+    'kerasIndex': '487',
+    'id': 'n02992529',
+    'text': 'cellular telephone, cellular phone, cellphone, cell, mobile phone'
+  },
+  {
+    'imageNetIndex': '914',
+    'kerasIndex': '680',
+    'id': 'n03825788',
+    'text': 'nipple'
+  },
+  {
+    'imageNetIndex': '915',
+    'kerasIndex': '422',
+    'id': 'n02790996',
+    'text': 'barbell'
+  },
+  {
+    'imageNetIndex': '916',
+    'kerasIndex': '637',
+    'id': 'n03710193',
+    'text': 'mailbox, letter box'
+  },
+  {
+    'imageNetIndex': '917',
+    'kerasIndex': '617',
+    'id': 'n03630383',
+    'text': 'lab coat, laboratory coat'
+  },
+  {
+    'imageNetIndex': '918',
+    'kerasIndex': '556',
+    'id': 'n03347037',
+    'text': 'fire screen, fireguard'
+  },
+  {
+    'imageNetIndex': '919',
+    'kerasIndex': '654',
+    'id': 'n03769881',
+    'text': 'minibus'
+  },
+  {
+    'imageNetIndex': '920',
+    'kerasIndex': '692',
+    'id': 'n03871628',
+    'text': 'packet'
+  },
+  {
+    'imageNetIndex': '921',
+    'kerasIndex': '646',
+    'id': 'n03733281',
+    'text': 'maze, labyrinth'
+  },
+  {
+    'imageNetIndex': '922',
+    'kerasIndex': '733',
+    'id': 'n03976657',
+    'text': 'pole'
+  },
+  {
+    'imageNetIndex': '923',
+    'kerasIndex': '602',
+    'id': 'n03535780',
+    'text': 'horizontal bar, high bar'
+  },
+  {
+    'imageNetIndex': '924',
+    'kerasIndex': '808',
+    'id': 'n04259630',
+    'text': 'sombrero'
+  },
+  {
+    'imageNetIndex': '925',
+    'kerasIndex': '715',
+    'id': 'n03929855',
+    'text': 'pickelhaube'
+  },
+  {
+    'imageNetIndex': '926',
+    'kerasIndex': '756',
+    'id': 'n04049303',
+    'text': 'rain barrel'
+  },
+  {
+    'imageNetIndex': '927',
+    'kerasIndex': '893',
+    'id': 'n04548362',
+    'text': 'wallet, billfold, notecase, pocketbook'
+  },
+  {
+    'imageNetIndex': '928',
+    'kerasIndex': '482',
+    'id': 'n02979186',
+    'text': 'cassette player'
+  },
+  {
+    'imageNetIndex': '929',
+    'kerasIndex': '917',
+    'id': 'n06596364',
+    'text': 'comic book'
+  },
+  {
+    'imageNetIndex': '930',
+    'kerasIndex': '719',
+    'id': 'n03935335',
+    'text': 'piggy bank, penny bank'
+  },
+  {
+    'imageNetIndex': '931',
+    'kerasIndex': '919',
+    'id': 'n06794110',
+    'text': 'street sign'
+  },
+  {
+    'imageNetIndex': '932',
+    'kerasIndex': '442',
+    'id': 'n02825657',
+    'text': 'bell cote, bell cot'
+  },
+  {
+    'imageNetIndex': '933',
+    'kerasIndex': '563',
+    'id': 'n03388183',
+    'text': 'fountain pen'
+  },
+  {
+    'imageNetIndex': '934',
+    'kerasIndex': '906',
+    'id': 'n04591157',
+    'text': 'Windsor tie'
+  },
+  {
+    'imageNetIndex': '935',
+    'kerasIndex': '890',
+    'id': 'n04540053',
+    'text': 'volleyball'
+  },
+  {
+    'imageNetIndex': '936',
+    'kerasIndex': '689',
+    'id': 'n03866082',
+    'text': 'overskirt'
+  },
+  {
+    'imageNetIndex': '937',
+    'kerasIndex': '775',
+    'id': 'n04136333',
+    'text': 'sarong'
+  },
+  {
+    'imageNetIndex': '938',
+    'kerasIndex': '748',
+    'id': 'n04026417',
+    'text': 'purse'
+  },
+  {
+    'imageNetIndex': '939',
+    'kerasIndex': '451',
+    'id': 'n02865351',
+    'text': 'bolo tie, bolo, bola tie, bola'
+  },
+  {
+    'imageNetIndex': '940',
+    'kerasIndex': '443',
+    'id': 'n02834397',
+    'text': 'bib'
+  },
+  {
+    'imageNetIndex': '941',
+    'kerasIndex': '701',
+    'id': 'n03888257',
+    'text': 'parachute, chute'
+  },
+  {
+    'imageNetIndex': '942',
+    'kerasIndex': '797',
+    'id': 'n04235860',
+    'text': 'sleeping bag'
+  },
+  {
+    'imageNetIndex': '943',
+    'kerasIndex': '851',
+    'id': 'n04404412',
+    'text': 'television, television system'
+  },
+  {
+    'imageNetIndex': '944',
+    'kerasIndex': '842',
+    'id': 'n04371430',
+    'text': 'swimming trunks, bathing trunks'
+  },
+  {
+    'imageNetIndex': '945',
+    'kerasIndex': '647',
+    'id': 'n03733805',
+    'text': 'measuring cup'
+  },
+  {
+    'imageNetIndex': '946',
+    'kerasIndex': '967',
+    'id': 'n07920052',
+    'text': 'espresso'
+  },
+  {
+    'imageNetIndex': '947',
+    'kerasIndex': '963',
+    'id': 'n07873807',
+    'text': 'pizza, pizza pie'
+  },
+  {
+    'imageNetIndex': '948',
+    'kerasIndex': '461',
+    'id': 'n02895154',
+    'text': 'breastplate, aegis, egis'
+  },
+  {
+    'imageNetIndex': '949',
+    'kerasIndex': '790',
+    'id': 'n04204238',
+    'text': 'shopping basket'
+  },
+  {
+    'imageNetIndex': '950',
+    'kerasIndex': '910',
+    'id': 'n04597913',
+    'text': 'wooden spoon'
+  },
+  {
+    'imageNetIndex': '951',
+    'kerasIndex': '773',
+    'id': 'n04131690',
+    'text': 'saltshaker, salt shaker'
+  },
+  {
+    'imageNetIndex': '952',
+    'kerasIndex': '960',
+    'id': 'n07836838',
+    'text': 'chocolate sauce, chocolate syrup'
+  },
+  {
+    'imageNetIndex': '953',
+    'kerasIndex': '981',
+    'id': 'n09835506',
+    'text': 'ballplayer, baseball player'
+  },
+  {
+    'imageNetIndex': '954',
+    'kerasIndex': '572',
+    'id': 'n03443371',
+    'text': 'goblet'
+  },
+  {
+    'imageNetIndex': '955',
+    'kerasIndex': '993',
+    'id': 'n13037406',
+    'text': 'gyromitra'
+  },
+  {
+    'imageNetIndex': '956',
+    'kerasIndex': '830',
+    'id': 'n04336792',
+    'text': 'stretcher'
+  },
+  {
+    'imageNetIndex': '957',
+    'kerasIndex': '898',
+    'id': 'n04557648',
+    'text': 'water bottle'
+  },
+  {
+    'imageNetIndex': '958',
+    'kerasIndex': '528',
+    'id': 'n03187595',
+    'text': 'dial telephone, dial phone'
+  },
+  {
+    'imageNetIndex': '959',
+    'kerasIndex': '804',
+    'id': 'n04254120',
+    'text': 'soap dispenser'
+  },
+  {
+    'imageNetIndex': '960',
+    'kerasIndex': '610',
+    'id': 'n03595614',
+    'text': 'jersey, T-shirt, tee shirt'
+  },
+  {
+    'imageNetIndex': '961',
+    'kerasIndex': '779',
+    'id': 'n04146614',
+    'text': 'school bus'
+  },
+  {
+    'imageNetIndex': '962',
+    'kerasIndex': '611',
+    'id': 'n03598930',
+    'text': 'jigsaw puzzle'
+  },
+  {
+    'imageNetIndex': '963',
+    'kerasIndex': '728',
+    'id': 'n03958227',
+    'text': 'plastic bag'
+  },
+  {
+    'imageNetIndex': '964',
+    'kerasIndex': '759',
+    'id': 'n04069434',
+    'text': 'reflex camera'
+  },
+  {
+    'imageNetIndex': '965',
+    'kerasIndex': '529',
+    'id': 'n03188531',
+    'text': 'diaper, nappy, napkin'
+  },
+  {
+    'imageNetIndex': '966',
+    'kerasIndex': '419',
+    'id': 'n02786058',
+    'text': 'Band Aid'
+  },
+  {
+    'imageNetIndex': '967',
+    'kerasIndex': '929',
+    'id': 'n07615774',
+    'text': 'ice lolly, lolly, lollipop, popsicle'
+  },
+  {
+    'imageNetIndex': '968',
+    'kerasIndex': '885',
+    'id': 'n04525038',
+    'text': 'velvet'
+  },
+  {
+    'imageNetIndex': '969',
+    'kerasIndex': '852',
+    'id': 'n04409515',
+    'text': 'tennis ball'
+  },
+  {
+    'imageNetIndex': '970',
+    'kerasIndex': '570',
+    'id': 'n03424325',
+    'text': 'gasmask, respirator, gas helmet'
+  },
+  {
+    'imageNetIndex': '971',
+    'kerasIndex': '539',
+    'id': 'n03223299',
+    'text': 'doormat, welcome mat'
+  },
+  {
+    'imageNetIndex': '972',
+    'kerasIndex': '630',
+    'id': 'n03680355',
+    'text': 'Loafer'
+  },
+  {
+    'imageNetIndex': '973',
+    'kerasIndex': '928',
+    'id': 'n07614500',
+    'text': 'ice cream, icecream'
+  },
+  {
+    'imageNetIndex': '974',
+    'kerasIndex': '932',
+    'id': 'n07695742',
+    'text': 'pretzel'
+  },
+  {
+    'imageNetIndex': '975',
+    'kerasIndex': '750',
+    'id': 'n04033995',
+    'text': 'quilt, comforter, comfort, puff'
+  },
+  {
+    'imageNetIndex': '976',
+    'kerasIndex': '639',
+    'id': 'n03710721',
+    'text': 'maillot, tank suit'
+  },
+  {
+    'imageNetIndex': '977',
+    'kerasIndex': '848',
+    'id': 'n04392985',
+    'text': 'tape player'
+  },
+  {
+    'imageNetIndex': '978',
+    'kerasIndex': '502',
+    'id': 'n03047690',
+    'text': 'clog, geta, patten, sabot'
+  },
+  {
+    'imageNetIndex': '979',
+    'kerasIndex': '605',
+    'id': 'n03584254',
+    'text': 'iPod'
+  },
+  {
+    'imageNetIndex': '980',
+    'kerasIndex': '997',
+    'id': 'n13054560',
+    'text': 'bolete'
+  },
+  {
+    'imageNetIndex': '981',
+    'kerasIndex': '983',
+    'id': 'n10565667',
+    'text': 'scuba diver'
+  },
+  {
+    'imageNetIndex': '982',
+    'kerasIndex': '725',
+    'id': 'n03950228',
+    'text': 'pitcher, ewer'
+  },
+  {
+    'imageNetIndex': '983',
+    'kerasIndex': '644',
+    'id': 'n03729826',
+    'text': 'matchstick'
+  },
+  {
+    'imageNetIndex': '984',
+    'kerasIndex': '445',
+    'id': 'n02837789',
+    'text': 'bikini, two-piece'
+  },
+  {
+    'imageNetIndex': '985',
+    'kerasIndex': '806',
+    'id': 'n04254777',
+    'text': 'sock'
+  },
+  {
+    'imageNetIndex': '986',
+    'kerasIndex': '485',
+    'id': 'n02988304',
+    'text': 'CD player'
+  },
+  {
+    'imageNetIndex': '987',
+    'kerasIndex': '622',
+    'id': 'n03657121',
+    'text': 'lens cap, lens cover'
+  },
+  {
+    'imageNetIndex': '988',
+    'kerasIndex': '853',
+    'id': 'n04417672',
+    'text': 'thatch, thatched roof'
+  },
+  {
+    'imageNetIndex': '989',
+    'kerasIndex': '884',
+    'id': 'n04523525',
+    'text': 'vault'
+  },
+  {
+    'imageNetIndex': '990',
+    'kerasIndex': '438',
+    'id': 'n02815834',
+    'text': 'beaker'
+  },
+  {
+    'imageNetIndex': '991',
+    'kerasIndex': '971',
+    'id': 'n09229709',
+    'text': 'bubble'
+  },
+  {
+    'imageNetIndex': '992',
+    'kerasIndex': '933',
+    'id': 'n07697313',
+    'text': 'cheeseburger'
+  },
+  {
+    'imageNetIndex': '993',
+    'kerasIndex': '702',
+    'id': 'n03888605',
+    'text': 'parallel bars, bars'
+  },
+  {
+    'imageNetIndex': '994',
+    'kerasIndex': '557',
+    'id': 'n03355925',
+    'text': 'flagpole, flagstaff'
+  },
+  {
+    'imageNetIndex': '995',
+    'kerasIndex': '504',
+    'id': 'n03063599',
+    'text': 'coffee mug'
+  },
+  {
+    'imageNetIndex': '996',
+    'kerasIndex': '767',
+    'id': 'n04116512',
+    'text': 'rubber eraser, rubber, pencil eraser'
+  },
+  {
+    'imageNetIndex': '997',
+    'kerasIndex': '824',
+    'id': 'n04325704',
+    'text': 'stole'
+  },
+  {
+    'imageNetIndex': '998',
+    'kerasIndex': '959',
+    'id': 'n07831146',
+    'text': 'carbonara'
+  },
+  {
+    'imageNetIndex': '999',
+    'kerasIndex': '543',
+    'id': 'n03255030',
+    'text': 'dumbbell'
+  }
+]
